@@ -15,3 +15,11 @@
 **Thoughts:** Initially, I thought it'd be difficult and not fun at all, but even though the complete website is just plain bland html and no styling at all, finishing my first very own web development project gave me a sense of fullfillment. Now that I'm taking lessons for CSS, will try to implement a better looking HTML+CSS-Personal CV.
 
 **Link to work:** [Harshit's Spot- HTML Personal Resume](https://harshit-saraswat.github.io/html-personal-cv/)
+
+### Day 3: July 06, 2020 
+
+**Today's Progress**: Completed the styling for Home page of personal website. Currently followed the basic tutorial in the course lecture. Now planning to add more pages to the site.
+
+**Thoughts:** It was a nice experience to turn a bland html code to styled website. I have followed the tutorials till now for it, but will try to improve and change it according to my own from now on. Will spend a few more days on the project before moving onto the next section.
+
+**Link to work:** [Harshit's Spot- CSS Personal CV](https://github.com/harshit-saraswat/css-personal-cv)
