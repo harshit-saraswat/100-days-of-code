@@ -11,3 +11,6 @@ Started learning Web Development and started with my first project: HTML-Persona
 Continued working on html-personal-cv and finished it. Now Started to work on CSS-personal-cv project. Will aim to make a simplistic yet styled website.
 
 ### R1D3
+Continued working on css-personal-cv and finished the styling as per the course. Now will add new pages for each skill-set to show my work. The styling process seemed to be more interesting than I thought it to be.
+
+### R1D4
