@@ -23,3 +23,11 @@
 **Thoughts:** It was a nice experience to turn a bland html code to styled website. I have followed the tutorials till now for it, but will try to improve and change it according to my own from now on. Will spend a few more days on the project before moving onto the next section.
 
 **Link to work:** [Harshit's Spot- CSS Personal CV](https://github.com/harshit-saraswat/css-personal-cv)
+
+### Day 4: July 07, 2020 
+
+**Today's Progress**: Started adding new features to the css-personal-cv project. Added Side Nav Drawer and styled it with some little animation. Was stuck with being able to close the nav drawer by clicking anywhere on the page, but in the end had to use minimal javascript to fix that issue. Also added navigation to contact me section. Will start working on Extras, Education and Work Section from tomorrow onwards.
+
+**Thoughts:** Finally started adding my own touches to the website. A minimalistic site like this required a navigation tool, but a bar seemed sort of out of theme, thus I moved forward with Side Nav Drawer. Got stuck at some places, but now I've started to get how styling and positioning works in html and css. Looking forward to improve my knowledge horizons.
+
+**Link to work:** [Harshit's Spot- CSS Personal CV](https://github.com/harshit-saraswat/css-personal-cv)
