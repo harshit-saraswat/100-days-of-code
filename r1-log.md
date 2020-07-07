@@ -14,3 +14,6 @@ Continued working on html-personal-cv and finished it. Now Started to work on CS
 Continued working on css-personal-cv and finished the styling as per the course. Now will add new pages for each skill-set to show my work. The styling process seemed to be more interesting than I thought it to be.
 
 ### R1D4
+Started adding personal touches and additions. Added a side nav drawer with minimal animation. Got stuck at a few places but fixed it after a little googling.
+
+### R1D5
