@@ -31,3 +31,11 @@
 **Thoughts:** Finally started adding my own touches to the website. A minimalistic site like this required a navigation tool, but a bar seemed sort of out of theme, thus I moved forward with Side Nav Drawer. Got stuck at some places, but now I've started to get how styling and positioning works in html and css. Looking forward to improve my knowledge horizons.
 
 **Link to work:** [Harshit's Spot- CSS Personal CV](https://github.com/harshit-saraswat/css-personal-cv)
+
+### Day 5: July 08, 2020 
+
+**Today's Progress**: Added Experience Page to the website and started working on education page. Started using reusable components and style to reduce code redundancy across webpages. Basic setup for educations page is done.
+
+**Thoughts:** Added another detail to the website. Started to use reusable components and styles instead of writing redundant code again and again. Had quite a difficulty imagining how UI for other pages should look like, gladly so many developers and designers out there are giving inspiration. Also started to work on a Full Stack AI project with Website dashboard. So I'm implementing bootstrap side by side on it. 
+
+**Link to work:** [Harshit's Spot- CSS Personal CV](https://github.com/harshit-saraswat/css-personal-cv)
