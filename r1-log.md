@@ -17,3 +17,6 @@ Continued working on css-personal-cv and finished the styling as per the course.
 Started adding personal touches and additions. Added a side nav drawer with minimal animation. Got stuck at a few places but fixed it after a little googling.
 
 ### R1D5
+Added Experience page and started working on educations page. Basic page setup and nav-bar/footer are done on educations page. Learned to use reusable styles and components instead of using same code again and again every-where.
+
+### R1D6
