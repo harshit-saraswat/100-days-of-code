@@ -39,3 +39,11 @@
 **Thoughts:** Added another detail to the website. Started to use reusable components and styles instead of writing redundant code again and again. Had quite a difficulty imagining how UI for other pages should look like, gladly so many developers and designers out there are giving inspiration. Also started to work on a Full Stack AI project with Website dashboard. So I'm implementing bootstrap side by side on it. 
 
 **Link to work:** [Harshit's Spot- CSS Personal CV](https://github.com/harshit-saraswat/css-personal-cv)
+
+### Day 6: July 09, 2020 
+
+**Today's Progress**: Added Cards with animation for education section for each school I attended. Also added extra courses in the same educations page to finish it off.
+
+**Thoughts:** Had trouble finding time for working on the project given my office timings and other courses. Have decided to wake up earlier from tomorrow to give time to this challenge in the morning as well. Hoping, I'd succeed. Btw, in terms of programming, I tried using codeply to prototype my flip-cards. Also, had some trouble implementing media queries for page responsiveness. 
+
+**Link to work:** [Harshit's Spot- CSS Personal CV](https://github.com/harshit-saraswat/css-personal-cv)
