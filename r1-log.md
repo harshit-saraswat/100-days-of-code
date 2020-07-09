@@ -20,3 +20,6 @@ Started adding personal touches and additions. Added a side nav drawer with mini
 Added Experience page and started working on educations page. Basic page setup and nav-bar/footer are done on educations page. Learned to use reusable styles and components instead of using same code again and again every-where.
 
 ### R1D6
+Added Cards for each school in educations page and added flip-animation to it. Used Codeply for prototyping and mediaqueries for page responsiveness. Though had some trouble with those.
+
+### R1D7
