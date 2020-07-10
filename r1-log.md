@@ -23,3 +23,6 @@ Added Experience page and started working on educations page. Basic page setup a
 Added Cards for each school in educations page and added flip-animation to it. Used Codeply for prototyping and mediaqueries for page responsiveness. Though had some trouble with those.
 
 ### R1D7
+7 days completed, ie, my first week done for this challenge. I just finished my css-personal-cv project by adding the final extras page and hosted it on github pages.
+
+### R1D8
