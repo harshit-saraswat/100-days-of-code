@@ -47,3 +47,13 @@
 **Thoughts:** Had trouble finding time for working on the project given my office timings and other courses. Have decided to wake up earlier from tomorrow to give time to this challenge in the morning as well. Hoping, I'd succeed. Btw, in terms of programming, I tried using codeply to prototype my flip-cards. Also, had some trouble implementing media queries for page responsiveness. 
 
 **Link to work:** [Harshit's Spot- CSS Personal CV](https://github.com/harshit-saraswat/css-personal-cv)
+
+### Day 7: July 10, 2020 
+
+**Today's Progress**: Added Extras page and fixed issues in the Educations page alignment. Finally completed my CSS-Personal Site Project. For extras section, I used card-based badges to display each skill and concept. Hosted the site on github-pages
+
+**Thoughts:** Finaly Done with css-personal-site project. There were more things which I wanted to add such as carousel, gallery, etc. but I think using bootstrap would be better for those and that'd come up in my upcoming project. For the time being I'll use this simple site as my personal website, but it still lacks a lot and once I'm done with some knowledge of bootstrap and js. I'll create a personalized version of website soon enough. I guess I've spent enough time on CSS and now I'll move ahead to Bootstrap.
+
+**Link to work:** [Harshit's Spot- CSS Personal CV](https://github.com/harshit-saraswat/css-personal-cv)
+
+**Live Link:** [Harshit's Spot](https://harshit-saraswat.github.io/css-personal-cv/)
