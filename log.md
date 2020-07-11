@@ -57,3 +57,12 @@
 **Link to work:** [Harshit's Spot- CSS Personal CV](https://github.com/harshit-saraswat/css-personal-cv)
 
 **Live Link:** [Harshit's Spot](https://harshit-saraswat.github.io/css-personal-cv/)
+
+### Day 8: July 11, 2020 
+
+**Today's Progress**: Started with new project - tindog. Implemented styling using css and bootstrap. Done with title section and features section.
+
+**Thoughts:** A new project. Hoping to learn new skills so as to improve my web development experience. After using bootstrap I found how much work can be decreased and made easier by importing this library. Looking forward to learn it effectively as I have a feeling that it'll be an important asset. Also I studied about CSS-Flexboxing apart from the course syllabus to improve my horizons.
+
+**Link to work:** [Tindog](https://github.com/harshit-saraswat/tindog)
+
