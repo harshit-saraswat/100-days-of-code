@@ -66,3 +66,10 @@
 
 **Link to work:** [Tindog](https://github.com/harshit-saraswat/tindog)
 
+### Day 9: July 12, 2020 
+
+**Today's Progress**: Styled other sections such as testimonials, pricing and footer for tindog project. Worked on Code Refactoring and Selector Combination+Selector Hierarchies and also Media Queries. Completed the project and also did a better documentation with images on github.
+
+**Thoughts:** Learning Bootstrap is indeed one of the biggest prowess a web developer can have. It was great to work with bootstrap to see how much my code is reduced from a big css mess. Was able to learn how to refactor code and use better programming concepts and how to convert WET code to DRY code. Now moving onwards to JS secton!
+
+**Link to work:** [Tindog](https://github.com/harshit-saraswat/tindog)
