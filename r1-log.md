@@ -27,3 +27,6 @@ Added Cards for each school in educations page and added flip-animation to it. U
 
 ### R1D8
 Started working on a new project-tindog (a startup landing page site). Here I am learning and implementing styling using Bootstrap. Today completed the title section and features section. Also studied about CSS-Flexboxing to improve my css styling horizons.
+
+### R1D9
+Styled other sections such as testimonials, pricing and footer for tindog project. Worked on Code Refactoring and Selector Combination+Selector Hierarchies and also Media Queries. Completed the project and also did a better documentation with images on github.
