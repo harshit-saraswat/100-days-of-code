@@ -30,3 +30,6 @@ Started working on a new project-tindog (a startup landing page site). Here I am
 
 ### R1D9
 Styled other sections such as testimonials, pricing and footer for tindog project. Worked on Code Refactoring and Selector Combination+Selector Hierarchies and also Media Queries. Completed the project and also did a better documentation with images on github.
+
+### R1D10
+Fixed minor issues on tindog and started working on JS. Done with Introdution to JS-ES6 module and completed all the challenges successfully. My previous programming experience came quite handy here.
