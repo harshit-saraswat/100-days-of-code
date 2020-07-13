@@ -73,3 +73,14 @@
 **Thoughts:** Learning Bootstrap is indeed one of the biggest prowess a web developer can have. It was great to work with bootstrap to see how much my code is reduced from a big css mess. Was able to learn how to refactor code and use better programming concepts and how to convert WET code to DRY code. Now moving onwards to JS secton!
 
 **Link to work:** [Tindog](https://github.com/harshit-saraswat/tindog)
+
+**Live Link:** [TinDog](https://harshit-saraswat.github.io/tindog/)
+
+### Day 10: July 13, 2020 
+
+**Today's Progress**: Fixed minor image viewing issues on tindog-website. Hosted the site on github pages. Started with Javascript-ES6. Completed the Introduction module and practiced js by working on challenges in the course. Worked on 3 challenges for mathematical operations, functions, logics, and argument/returns in function.
+
+**Thoughts:** It was good. Just like python, JS is a simple language to learn and easy to understand. My previous programming experience in multiple languages allowed me to easily grasp various principles and I was able to understand the JS syntax quickly. Introduction module with challenges are complete and now moving onwards to more complex JS work.
+
+**Link to work:** [Javascript-Practice](https://github.com/harshit-saraswat/javascript-practice)
+
