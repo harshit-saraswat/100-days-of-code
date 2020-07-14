@@ -33,3 +33,6 @@ Styled other sections such as testimonials, pricing and footer for tindog projec
 
 ### R1D10
 Fixed minor issues on tindog and started working on JS. Done with Introdution to JS-ES6 module and completed all the challenges successfully. My previous programming experience came quite handy here.
+
+### R1D11
+Started with 10 days of JavaScript Challenge on HackerRank. Completed the Day 0,Day 1 and Day 2 challenges. While, I was on hackerrank, I also participated in Python(Basic) certification test and completed it successfully!
