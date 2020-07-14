@@ -5,3 +5,5 @@
 
 # Code and Practice:
 1. [JS-Practice](https://github.com/harshit-saraswat/javascript-practice)
+2. [10-Days-of-Javascript](https://github.com/harshit-saraswat/10-Days-of-Javascript)
+
