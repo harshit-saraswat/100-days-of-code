@@ -84,3 +84,12 @@
 
 **Link to work:** [Javascript-Practice](https://github.com/harshit-saraswat/javascript-practice)
 
+
+### Day 11: July 14, 2020 
+
+**Today's Progress**: Started with 10 days of JS challenge on HackerRank. Done with Day 0, Day 1 and Day 2. Completed modules for console logging, data types, arrays, conditional statements, exception handelling, loops. Also tried the HackerRank Python (Basic) certification challenge and was able to successfully complete it.
+
+**Thoughts:** As, I said before JS has similar code structure as python so it's easier and quicker for me to learn. While working on the 10 days of JS challenge, I found that it's not very difficult to master, though it's been long since I used switch-cases (no switch-case in python), so it took me a while to solve it. Also, been so long since I coded in python and yet I was able to complete it's certification test successfully, it felt really good. I'll still use python as my first language followed by JS for sure!
+
+**Link to work:** [10-Days-of-Javascript](https://github.com/harshit-saraswat/10-Days-of-Javascript)
+
