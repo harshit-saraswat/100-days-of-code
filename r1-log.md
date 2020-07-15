@@ -36,3 +36,6 @@ Fixed minor issues on tindog and started working on JS. Done with Introdution to
 
 ### R1D11
 Started with 10 days of JavaScript Challenge on HackerRank. Completed the Day 0,Day 1 and Day 2 challenges. While, I was on hackerrank, I also participated in Python(Basic) certification test and completed it successfully!
+
+### R1D12
+Continued with javascript practicing. Completed the course challenges and moved forward with 10 days of JS to 5th day. Unknowingly hit a problem of 8th day regarding regular expressions, but was able to solve it after several tries.
