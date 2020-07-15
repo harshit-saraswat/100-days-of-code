@@ -93,3 +93,12 @@
 
 **Link to work:** [10-Days-of-Javascript](https://github.com/harshit-saraswat/10-Days-of-Javascript)
 
+### Day 12: July 15, 2020 
+
+**Today's Progress**: Continued with javascript practicing. Today I solved challenges for 99 bottles song lyrics using loops and conditional statement and a fibonacci sequence challenge. Apart from that also continued with 10 days of JS. Done with Day 4 and started with Day 5, unknowingly hit a problem of Regular Expressions on Day 8 and was able to solve it after trying a number of times. 
+
+**Thoughts:** It is getting tougher to keep this daily coding habit going on due to my long office hours, but I'm glad that I'm able to commit atleast once per day. The challenges seem good till now and I hope I'll be done with JS soon and start working on websites with JS.
+
+**Link to work:** [10-Days-of-Javascript](https://github.com/harshit-saraswat/10-Days-of-Javascript), [Javascript-Practice](https://github.com/harshit-saraswat/javascript-practice)
+
+
