@@ -39,3 +39,6 @@ Started with 10 days of JavaScript Challenge on HackerRank. Completed the Day 0,
 
 ### R1D12
 Continued with javascript practicing. Completed the course challenges and moved forward with 10 days of JS to 5th day. Unknowingly hit a problem of 8th day regarding regular expressions, but was able to solve it after several tries.
+
+### R1D13
+Continued practicing JavaScript. Was able to complete challenges for Day 6 and 7 for 10 Days of JavaScript Challenge and unlocked 4 stars. Apart from that practiced Basic DOM on W3Schools.
