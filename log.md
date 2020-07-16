@@ -101,4 +101,10 @@
 
 **Link to work:** [10-Days-of-Javascript](https://github.com/harshit-saraswat/10-Days-of-Javascript), [Javascript-Practice](https://github.com/harshit-saraswat/javascript-practice)
 
+### Day 13: July 16, 2020 
 
+**Today's Progress**: Continued practicing JavaScript. Was able to complete challenges for Day 6 and 7 for 10 Days of JavaScript Challenge and unlocked 4 stars. Apart from that practiced Basic DOM on W3Schools.
+
+**Thoughts:** I can see myself improving in JS day by day. It's really unbelievable for me on how I was able to learn web development so soon that a project I got at office which had UI as a website and it was accepted with no changes by my seniors.
+
+**Link to work:** [10-Days-of-Javascript](https://github.com/harshit-saraswat/10-Days-of-Javascript), [Javascript-Practice](https://github.com/harshit-saraswat/javascript-practice)
