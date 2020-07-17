@@ -42,3 +42,6 @@ Continued with javascript practicing. Completed the course challenges and moved 
 
 ### R1D13
 Continued practicing JavaScript. Was able to complete challenges for Day 6 and 7 for 10 Days of JavaScript Challenge and unlocked 4 stars. Apart from that practiced Basic DOM on W3Schools.
+
+### R1D14
+Completed 10 Days of JS Challenge and earned the 5 stars golden badge. Also worked on Fetch API in JS and worked with promises and async/await.
