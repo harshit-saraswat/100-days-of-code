@@ -108,3 +108,11 @@
 **Thoughts:** I can see myself improving in JS day by day. It's really unbelievable for me on how I was able to learn web development so soon that a project I got at office which had UI as a website and it was accepted with no changes by my seniors.
 
 **Link to work:** [10-Days-of-Javascript](https://github.com/harshit-saraswat/10-Days-of-Javascript), [Javascript-Practice](https://github.com/harshit-saraswat/javascript-practice)
+
+### Day 14: July 17, 2020 
+
+**Today's Progress**: Completed 10 Days of JS Challenge and earned the 5 stars golden badge. It felt really good, given the last days had some really tricky challenges which focussed on regular expressions and Binary Calculations. Also worked on Fetch API in JS and worked with promises and async/await.
+
+**Thoughts:** 2 weeks in, and I've grown so much. Now I'm confident enough to work with Web Development and also learn newer skills quickly. I can actually see myself progressing and developing some good coding habits.
+
+**Link to work:** [10-Days-of-Javascript](https://github.com/harshit-saraswat/10-Days-of-Javascript), [Javascript-Practice](https://github.com/harshit-saraswat/javascript-practice)
