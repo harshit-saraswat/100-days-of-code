@@ -123,4 +123,4 @@
 
 **Thoughts:** Practicing JavaScript and CSS a little more than usual allowed me to complete this challenge without much hassles. Was able to execute code for all the challenges without any issues and also wrote code in a better format.
 
-**Link to work:** [Dice Game](https://github.com/harshit-saraswat/Dice-Game)
+**Link to work:** [Dice-Game](https://github.com/harshit-saraswat/Dice-Game)
