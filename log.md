@@ -116,3 +116,11 @@
 **Thoughts:** 2 weeks in, and I've grown so much. Now I'm confident enough to work with Web Development and also learn newer skills quickly. I can actually see myself progressing and developing some good coding habits.
 
 **Link to work:** [10-Days-of-Javascript](https://github.com/harshit-saraswat/10-Days-of-Javascript), [Javascript-Practice](https://github.com/harshit-saraswat/javascript-practice)
+
+### Day 15: July 18, 2020 
+
+**Today's Progress**: Started Working with Dice-Challenge. Completed the project as per the challenge requirements without any issues. Worked on fixing minor UI issues and gave the functionality through JavaScript.
+
+**Thoughts:** Practicing JavaScript and CSS a little more than usual allowed me to complete this challenge without much hassles. Was able to execute code for all the challenges without any issues and also wrote code in a better format.
+
+**Link to work:** [Dice Game](https://github.com/harshit-saraswat/Dice-Game)
