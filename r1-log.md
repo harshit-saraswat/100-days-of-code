@@ -45,3 +45,6 @@ Continued practicing JavaScript. Was able to complete challenges for Day 6 and 7
 
 ### R1D14
 Completed 10 Days of JS Challenge and earned the 5 stars golden badge. Also worked on Fetch API in JS and worked with promises and async/await.
+
+### R1D15
+Started working on the Dice-Game challenge and completed it without any issues.
