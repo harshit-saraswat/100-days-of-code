@@ -124,3 +124,11 @@
 **Thoughts:** Practicing JavaScript and CSS a little more than usual allowed me to complete this challenge without much hassles. Was able to execute code for all the challenges without any issues and also wrote code in a better format.
 
 **Link to work:** [Dice-Game](https://github.com/harshit-saraswat/Dice-Game)
+
+### Day 16: July 19, 2020 
+
+**Today's Progress**: Started and completed the project Drum Kit which focussed on advanced JS concepts for DOM Manipulation and event listeners. Also started working on first personal project Neumorphism Calculator which is a basic calculator with Neumorphism design concept. Added basic startup code and minimal styling. Done with the screen area.
+
+**Thoughts:** Now that, I've had some command over the HTML+CSS+JS, I believe I'm ready to move to a better stage. Starting with the Neumorphism Calculator just to be able to implement my design and basic javascript practice in a project. Plus calculator has been my first project in almost all the languages I've learnt, so why not try that with Web Dev as well.
+
+**Link to work:** [Drum Kit](https://github.com/harshit-saraswat/Drum-Kit), [Neumorphism Calculator](https://github.com/harshit-saraswat/Neumorphism-Calculator)
