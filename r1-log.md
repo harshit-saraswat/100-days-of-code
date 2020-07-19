@@ -48,3 +48,6 @@ Completed 10 Days of JS Challenge and earned the 5 stars golden badge. Also work
 
 ### R1D15
 Started working on the Dice-Game challenge and completed it without any issues.
+
+### R1D16
+Started and completed the Drum Kit Project. Now working on first personal project-Neumorphism Calculator.
