@@ -51,3 +51,6 @@ Started working on the Dice-Game challenge and completed it without any issues.
 
 ### R1D16
 Started and completed the Drum Kit Project. Now working on first personal project-Neumorphism Calculator.
+
+### R1D17
+Continued working on Neumorphism Calculator Project. Done with HTML and CSS part. Started with JS.
