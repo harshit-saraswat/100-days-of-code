@@ -132,3 +132,11 @@
 **Thoughts:** Now that, I've had some command over the HTML+CSS+JS, I believe I'm ready to move to a better stage. Starting with the Neumorphism Calculator just to be able to implement my design and basic javascript practice in a project. Plus calculator has been my first project in almost all the languages I've learnt, so why not try that with Web Dev as well.
 
 **Link to work:** [Drum Kit](https://github.com/harshit-saraswat/Drum-Kit), [Neumorphism Calculator](https://github.com/harshit-saraswat/Neumorphism-Calculator)
+
+### Day 17: July 20, 2020 
+
+**Today's Progress**: Continued working on Neumorphism Calculator. Done with Styling part and started working on functionality using JavaScript and JQuery.
+
+**Thoughts:** After finishing styling there were so many things I though I could try, but at the end I went with the simpler colors and styling to focus on the simplicity of the application. Working on Calculator is a great idea as it allows us to understand various functions related to string and variable manipulation.
+
+**Link to work:** [Neumorphism Calculator](https://github.com/harshit-saraswat/Neumorphism-Calculator)
