@@ -54,3 +54,6 @@ Started and completed the Drum Kit Project. Now working on first personal projec
 
 ### R1D17
 Continued working on Neumorphism Calculator Project. Done with HTML and CSS part. Started with JS.
+
+### R1D18
+Continued working on Neumorphism Calculator Project. Done with functionality part too. Now will work on improving aesthetics and add in a dark mode.
