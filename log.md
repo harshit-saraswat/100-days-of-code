@@ -140,3 +140,11 @@
 **Thoughts:** After finishing styling there were so many things I though I could try, but at the end I went with the simpler colors and styling to focus on the simplicity of the application. Working on Calculator is a great idea as it allows us to understand various functions related to string and variable manipulation.
 
 **Link to work:** [Neumorphism Calculator](https://github.com/harshit-saraswat/Neumorphism-Calculator)
+
+### Day 18: July 21, 2020 
+
+**Today's Progress**: Continued working on Neumorphism Calculator. Done with the functionality part and now the calculator is complete. Now just need to work on improving minor aesthetics and add in dark-mode.
+
+**Thoughts:** It was fairly easier for me to work on JS than the CSS part as my previous backend programming experience helped a lot for that. There are few minor issues left in the calculator which can be fixed later.
+
+**Link to work:** [Neumorphism Calculator](https://github.com/harshit-saraswat/Neumorphism-Calculator)
