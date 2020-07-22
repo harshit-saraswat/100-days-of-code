@@ -57,3 +57,7 @@ Continued working on Neumorphism Calculator Project. Done with HTML and CSS part
 
 ### R1D18
 Continued working on Neumorphism Calculator Project. Done with functionality part too. Now will work on improving aesthetics and add in a dark mode.
+
+### R1D19
+Completed working on Neumorphism Calculator Project. Added Dark Mode Toggle and Media queries for responsiveness.
+
