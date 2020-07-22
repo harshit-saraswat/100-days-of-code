@@ -148,3 +148,11 @@
 **Thoughts:** It was fairly easier for me to work on JS than the CSS part as my previous backend programming experience helped a lot for that. There are few minor issues left in the calculator which can be fixed later.
 
 **Link to work:** [Neumorphism Calculator](https://github.com/harshit-saraswat/Neumorphism-Calculator)
+
+### Day 19: July 22, 2020 
+
+**Today's Progress**: Completed working on Neumorphism Calculator. Added Dark Mode Toggle and also implemented custom toggle switch [FlorinPop17](https://codepen.io/FlorinPop17/pen/XWWZYYG)'s codepen. Also implemented media-queries to make it responsive for screen size changes.
+
+**Thoughts:** Finally done with the project. The end product seems quite aesthetic. Ofc, there's so much more which could be added, but may be next time?
+
+**Link to work:** [Neumorphism Calculator](https://github.com/harshit-saraswat/Neumorphism-Calculator)
