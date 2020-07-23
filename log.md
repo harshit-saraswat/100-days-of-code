@@ -156,3 +156,11 @@
 **Thoughts:** Finally done with the project. The end product seems quite aesthetic. Ofc, there's so much more which could be added, but may be next time?
 
 **Link to work:** [Neumorphism Calculator](https://github.com/harshit-saraswat/Neumorphism-Calculator)
+
+### Day 20: July 23, 2020 
+
+**Today's Progress**: Worked on Page Loading Animations using HTML, CSS and JS. Also worked on complete backend maintainence using Session Storage,Local Storage, Fetch API. Started working on Simon Game Project.
+
+**Thoughts:** It was tough to take out some time to code today but thankfully I was able to do a little. Now I'm pretty confident on my web development skills and ready to tackle challenges.
+
+**Link to work:** [Simon Game](https://github.com/harshit-saraswat/Simon-Game)
