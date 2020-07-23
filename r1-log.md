@@ -61,3 +61,6 @@ Continued working on Neumorphism Calculator Project. Done with functionality par
 ### R1D19
 Completed working on Neumorphism Calculator Project. Added Dark Mode Toggle and Media queries for responsiveness.
 
+### R1D20
+Worked on Page Loading Animations using HTML,CSS and JS. Started working on Simon Game.
+
