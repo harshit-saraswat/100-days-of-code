@@ -64,3 +64,6 @@ Completed working on Neumorphism Calculator Project. Added Dark Mode Toggle and 
 ### R1D20
 Worked on Page Loading Animations using HTML,CSS and JS. Started working on Simon Game.
 
+### R1D21
+Worked on an old python project- Face Mask detection. Also Mentored hackers at Hackmakers #BuildWithAI Global AI Hackathon.
+
