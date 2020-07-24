@@ -164,3 +164,11 @@
 **Thoughts:** It was tough to take out some time to code today but thankfully I was able to do a little. Now I'm pretty confident on my web development skills and ready to tackle challenges.
 
 **Link to work:** [Simon Game](https://github.com/harshit-saraswat/Simon-Game)
+
+### Day 21: July 24, 2020 
+
+**Today's Progress**: Worked on an old python project-Face Mask Detection. Fixed minor bugs and tested for different usecases. Also, started working with hackers and mentored them today throughout the Hackmakers #BuildWithAI hackathon.
+
+**Thoughts:** Today was a busy day that's why had to work on an old project which was almost done and had to upload it. Glad that I am keeping my streak going without any failures. Also I got chosen as a mentor today at a Global AI hackathon and it''s fun to transition from being a participant to a mentor.
+
+**Link to work:** [Face Mask Detection](https://github.com/harshit-saraswat/Face-Mask-Detection)
