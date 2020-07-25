@@ -172,3 +172,11 @@
 **Thoughts:** Today was a busy day that's why had to work on an old project which was almost done and had to upload it. Glad that I am keeping my streak going without any failures. Also I got chosen as a mentor today at a Global AI hackathon and it''s fun to transition from being a participant to a mentor.
 
 **Link to work:** [Face Mask Detection](https://github.com/harshit-saraswat/Face-Mask-Detection)
+
+### Day 22: July 25, 2020 
+
+**Today's Progress**: Worked on Simon Game. Structured the project. Added Favicon, Implemented User Click handling, button animations, random game pattern generator and use click pattern capture. Apart from that continued mentoring teams in #BuildWithAI Hackathon. Helped them with Wireframing and some coding parts.
+
+**Thoughts:** Today was another busy day but glad that I'm continuing my streak. Finally got some time to work on simon game. It should be finished soon if I keep up the pace. Coding part is going smoothly now that I've had some experience with Web Development.
+
+**Link to work:** [Simon Game](https://github.com/harshit-saraswat/Simon-Game)
