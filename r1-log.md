@@ -67,3 +67,5 @@ Worked on Page Loading Animations using HTML,CSS and JS. Started working on Simo
 ### R1D21
 Worked on an old python project- Face Mask detection. Also Mentored hackers at Hackmakers #BuildWithAI Global AI Hackathon.
 
+### R1D22
+Worked on Simon Game. Added user click pattern capture, random game pattern generator, button animations and sound playing. Also mentored team at #BuildWithAI
