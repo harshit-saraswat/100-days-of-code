@@ -69,3 +69,6 @@ Worked on an old python project- Face Mask detection. Also Mentored hackers at H
 
 ### R1D22
 Worked on Simon Game. Added user click pattern capture, random game pattern generator, button animations and sound playing. Also mentored team at #BuildWithAI
+
+### R1D23
+Worked on Simon Game. Completed the project. Also worked on time series and nlp problems during #BuildWithAI.
