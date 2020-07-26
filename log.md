@@ -180,3 +180,11 @@
 **Thoughts:** Today was another busy day but glad that I'm continuing my streak. Finally got some time to work on simon game. It should be finished soon if I keep up the pace. Coding part is going smoothly now that I've had some experience with Web Development.
 
 **Link to work:** [Simon Game](https://github.com/harshit-saraswat/Simon-Game)
+
+### Day 23: July 26, 2020 
+
+**Today's Progress**: Worked on and completed Simon Game copletely. Was able to convert challenge hints into executable code without any problems. Was stuck at a minor issue for sometime for checking the user pattern with game pattern but it turned out I just missed to reset user pattern value to null after every level. So had quite some fun debugging it. Also I worked on some time-series analysis problems with the teams while mentoring in #BuildWithAI.
+
+**Thoughts:** It was great working with teams in the hack and mentoring them. Though it will end tomorrow but I really wish to work with the teams in future ahead. About the code I did today well it's just basic stuff so I don't have much to say about them, but I could go on for hours about each team member in different teams I've interacted with. It's sad that it'll end tomorrow.
+
+**Link to work:** [Simon Game](https://github.com/harshit-saraswat/Simon-Game)
