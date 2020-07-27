@@ -188,3 +188,11 @@
 **Thoughts:** It was great working with teams in the hack and mentoring them. Though it will end tomorrow but I really wish to work with the teams in future ahead. About the code I did today well it's just basic stuff so I don't have much to say about them, but I could go on for hours about each team member in different teams I've interacted with. It's sad that it'll end tomorrow.
 
 **Link to work:** [Simon Game](https://github.com/harshit-saraswat/Simon-Game)
+
+### Day 24: July 27, 2020 
+
+**Today's Progress**: Had a super busy day so couldn't start anything new today, but that's why worked on an old project-Social Distancing Detection. Fixed some issues and used Tiny YOLO model for better speed on small GPU systems though that affected the accuracy of model. Also fixed minor issues in it. Today was the last day of #BuildWithAI and was glad that I could help the teams I mentored to deliver their solutions well.
+
+**Thoughts:** And the final day of hack ended. It makes me a lil sad that I couldn't interact with them more but I really loved working with them. Looking forward to working with them again. I was supposed to post this project before on github but one of the teams I was mentoring, was building something similar, so had to stop myself to see if they could pull it off without much help and they did!
+
+**Link to work:** [Social Distancing Detector](https://github.com/harshit-saraswat/Social-Distancing-Detection)
