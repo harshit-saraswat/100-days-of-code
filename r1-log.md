@@ -72,3 +72,6 @@ Worked on Simon Game. Added user click pattern capture, random game pattern gene
 
 ### R1D23
 Worked on Simon Game. Completed the project. Also worked on time series and nlp problems during #BuildWithAI.
+
+### R1D24
+Worked on an old python project- Social Distancing Detection. Also Mentored hackers at Hackmakers #BuildWithAI Global AI Hackathon one last time and helped them with presentation and final tweaks.
