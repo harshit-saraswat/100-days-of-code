@@ -75,3 +75,6 @@ Worked on Simon Game. Completed the project. Also worked on time series and nlp 
 
 ### R1D24
 Worked on an old python project- Social Distancing Detection. Also Mentored hackers at Hackmakers #BuildWithAI Global AI Hackathon one last time and helped them with presentation and final tweaks.
+
+### R1D25
+Started working with CLI, NodeJS and ExpressJS. Worked with npm and initialized first server and packages.
