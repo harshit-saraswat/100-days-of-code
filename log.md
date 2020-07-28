@@ -196,3 +196,11 @@
 **Thoughts:** And the final day of hack ended. It makes me a lil sad that I couldn't interact with them more but I really loved working with them. Looking forward to working with them again. I was supposed to post this project before on github but one of the teams I was mentoring, was building something similar, so had to stop myself to see if they could pull it off without much help and they did!
 
 **Link to work:** [Social Distancing Detector](https://github.com/harshit-saraswat/Social-Distancing-Detection)
+
+### Day 25: July 28, 2020 
+
+**Today's Progress**: Worked with command line interface and NodeJS. Learned on how to use npm, initialized package, filesystem package usage, played with superheroes and supervillain packages, also learned about ExpressJS and initialized my first server. 
+
+**Thoughts:** Working with NodeJS and ExpressJS is pretty much similar to working with Python and Flask. Today I spent most of my time learning and practicing basic CLI and NodeJS/ExpressJS stuff. Looking forward to creating powerfull web apps soon.
+
+**Link to work:** [Javascript-Practice](https://github.com/harshit-saraswat/javascript-practice)
