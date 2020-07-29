@@ -78,3 +78,6 @@ Worked on an old python project- Social Distancing Detection. Also Mentored hack
 
 ### R1D25
 Started working with CLI, NodeJS and ExpressJS. Worked with npm and initialized first server and packages.
+
+### R1D26
+Continued Practicing with NodeJS and ExpressJS. Worked on Basic GET and POST Requests. Also studied APIs.
