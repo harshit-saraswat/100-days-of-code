@@ -204,3 +204,11 @@
 **Thoughts:** Working with NodeJS and ExpressJS is pretty much similar to working with Python and Flask. Today I spent most of my time learning and practicing basic CLI and NodeJS/ExpressJS stuff. Looking forward to creating powerfull web apps soon.
 
 **Link to work:** [Javascript-Practice](https://github.com/harshit-saraswat/javascript-practice)
+
+### Day 26: July 29, 2020 
+
+**Today's Progress**: Continued working with NodeJS and ExpressJS. Implemented basic GET and POST requests to create a simple addition and bmi calculator app. Also learned about and worked on APIs.
+
+**Thoughts:** Just continued with my daily practice. Nothing that big work today.
+
+**Link to work:** [Javascript-Practice](https://github.com/harshit-saraswat/javascript-practice)
