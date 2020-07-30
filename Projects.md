@@ -6,6 +6,7 @@
 5. [Drum Kit](https://github.com/harshit-saraswat/Drum-Kit)
 6. [Neumorphism Calculator](https://github.com/harshit-saraswat/Neumorphism-Calculator)
 7. [Simon Game](https://github.com/harshit-saraswat/Simon-Game)
+8. [Newsletter-Signup App](https://github.com/harshit-saraswat/Newsletter-Signup)
 
 # Code and Practice:
 1. [JS-Practice](https://github.com/harshit-saraswat/javascript-practice)
