@@ -81,3 +81,6 @@ Started working with CLI, NodeJS and ExpressJS. Worked with npm and initialized 
 
 ### R1D26
 Continued Practicing with NodeJS and ExpressJS. Worked on Basic GET and POST Requests. Also studied APIs.
+
+### R1D27
+Continued Practicing with NodeJS and ExpressJS. Worked on and completed Bitcoin Ticker app. Also started Newsletter-Signup App.
