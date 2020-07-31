@@ -213,10 +213,18 @@
 
 **Link to work:** [Javascript-Practice](https://github.com/harshit-saraswat/javascript-practice)
 
-### Day 27: July 31, 2020 
+### Day 27: July 30, 2020 
 
 **Today's Progress**: Continued working with NodeJS and ExpressJS. Started and completed a Bitcoin Ticker Project which converts crypto currency to fiat currency. For the background implementation I used an API by Bitcoin Average. To use APIs implemented request module. Also started another project Newsletter-Signup App.
 
 **Thoughts:** Worked on implementation of api calls using request package in NodeJS. Completed my first functional web app, and started working with another deployable web app which I might consider using for myself.
 
 **Link to work:** [Javascript-Practice](https://github.com/harshit-saraswat/javascript-practice), [Newsletter-Signup](https://github.com/harshit-saraswat/Newsletter-Signup)
+
+### Day 28: July 31, 2020 
+
+**Today's Progress**: Continued working on Newsletter Signup App. Added UI for signup page and backend NodeJS + Express JS server. Integrated and implemented Mailchimp's API for signing up people to my mail list using NodeJS Request Package.
+
+**Thoughts:** I had some trouble reading through the documentation of mailchimp API since they changed it a lot if compared with the video tutorials. Done with the difficult part. Now will work upon successful/failure message UI.
+
+**Link to work:** [Newsletter-Signup](https://github.com/harshit-saraswat/Newsletter-Signup)
