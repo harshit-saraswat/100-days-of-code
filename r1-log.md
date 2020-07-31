@@ -84,3 +84,6 @@ Continued Practicing with NodeJS and ExpressJS. Worked on Basic GET and POST Req
 
 ### R1D27
 Continued Practicing with NodeJS and ExpressJS. Worked on and completed Bitcoin Ticker app. Also started Newsletter-Signup App.
+
+### R1D28
+Continued working on Newsletter Signup App. Done with signup UI and mailchimp api integration and working. Now need to focus on success/failure callback.
