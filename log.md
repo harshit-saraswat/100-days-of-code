@@ -228,3 +228,11 @@
 **Thoughts:** I had some trouble reading through the documentation of mailchimp API since they changed it a lot if compared with the video tutorials. Done with the difficult part. Now will work upon successful/failure message UI.
 
 **Link to work:** [Newsletter-Signup](https://github.com/harshit-saraswat/Newsletter-Signup)
+
+### Day 29: August 1, 2020 
+
+**Today's Progress**: Finished working on Newsletter-Signup App. Added Response pages for Failure and Success. Also added functionality to redirect to signup page for trying again/signing up again on failure/success pages respectively. Also started with new project- TODO List App.
+
+**Thoughts:** Done with the app, there's still more things I'm unclear of while using NodeJS and ExpressJS as backend. Hopefully these doubts will be cleared as I move forward in the course.
+
+**Link to work:** [Newsletter-Signup](https://github.com/harshit-saraswat/Newsletter-Signup), [TODO List App](https://github.com/harshit-saraswat/TODO-List-App)
