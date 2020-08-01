@@ -87,3 +87,6 @@ Continued Practicing with NodeJS and ExpressJS. Worked on and completed Bitcoin 
 
 ### R1D28
 Continued working on Newsletter Signup App. Done with signup UI and mailchimp api integration and working. Now need to focus on success/failure callback.
+
+### R1D29
+Finished Newsletter-Signup App. Started with TODO List App.
