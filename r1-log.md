@@ -90,3 +90,6 @@ Continued working on Newsletter Signup App. Done with signup UI and mailchimp ap
 
 ### R1D29
 Finished Newsletter-Signup App. Started with TODO List App.
+
+### R1D30
+Started With JS30 course by Wes Bos. Continued working on TODO List App.
