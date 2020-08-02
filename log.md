@@ -236,3 +236,11 @@
 **Thoughts:** Done with the app, there's still more things I'm unclear of while using NodeJS and ExpressJS as backend. Hopefully these doubts will be cleared as I move forward in the course.
 
 **Link to work:** [Newsletter-Signup](https://github.com/harshit-saraswat/Newsletter-Signup), [TODO List App](https://github.com/harshit-saraswat/TODO-List-App)
+
+### Day 30: August 2, 2020 
+
+**Today's Progress**: Continued working on TODO List app and started learning and sandboxing various learnings on online IDEs. Haven't uploaded the code yet because I was focussed on creating a dummy resource first and learning too. Also worked on old projects and started with JS 30 Course.
+
+**Thoughts:** Couldnt work much because of some chores and office work. Will improve in days to come
+
+**Link to work:** [TODO List App](https://github.com/harshit-saraswat/TODO-List-App), [JS30](https://github.com/harshit-saraswat/JavaScript30)
