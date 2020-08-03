@@ -244,3 +244,11 @@
 **Thoughts:** Couldnt work much because of some chores and office work. Will improve in days to come
 
 **Link to work:** [TODO List App](https://github.com/harshit-saraswat/TODO-List-App), [JS30](https://github.com/harshit-saraswat/JavaScript30)
+
+### Day 31: August 3, 2020 
+
+**Today's Progress**: Continued working on TODO List app. Worked with EJS and Templates. Added Styling to the App and done with ToDo List Basic Functionalities.
+
+**Thoughts:** EJS Templates seem to be a great way to move forward with code reusability. It seems a lil confusing currently, but I'll get a hang of it.
+
+**Link to work:** [TODO List App](https://github.com/harshit-saraswat/TODO-List-App)
