@@ -93,3 +93,6 @@ Finished Newsletter-Signup App. Started with TODO List App.
 
 ### R1D30
 Started With JS30 course by Wes Bos. Continued working on TODO List App.
+
+### R1D31
+Continued working on TODO List App. Started working with EJS and Templates. Done With UI and Styling and basic functionality.
