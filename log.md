@@ -252,3 +252,11 @@
 **Thoughts:** EJS Templates seem to be a great way to move forward with code reusability. It seems a lil confusing currently, but I'll get a hang of it.
 
 **Link to work:** [TODO List App](https://github.com/harshit-saraswat/TODO-List-App)
+
+### Day 32: August 4, 2020 
+
+**Today's Progress**: Completed TODO List App Project. Added separate Work List route and fixed the list item addition conflict. Also started with Personal Diary Blog App Challenge. Completed Challenges 1-10. The challenge uses HTML, CSS, Bootstrap, JS, NodeJS, ExpressJS, EJS.
+
+**Thoughts:** Was able to get a lot of things done today. Finally got a hang of EJS after some practice and working on the challenges is going great. So far no hints required.
+
+**Link to work:** [TODO List App](https://github.com/harshit-saraswat/TODO-List-App), [Personal Diary Blog](https://github.com/harshit-saraswat/Personal-Blog-Diary-Website)
