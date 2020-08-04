@@ -96,3 +96,6 @@ Started With JS30 course by Wes Bos. Continued working on TODO List App.
 
 ### R1D31
 Continued working on TODO List App. Started working with EJS and Templates. Done With UI and Styling and basic functionality.
+
+### R1D32
+Completed TODO List APP v1. Started with Personal Diary Blog App. Completed Challenges 1-10 without any hints.
