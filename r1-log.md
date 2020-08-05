@@ -99,3 +99,6 @@ Continued working on TODO List App. Started working with EJS and Templates. Done
 
 ### R1D32
 Completed TODO List APP v1. Started with Personal Diary Blog App. Completed Challenges 1-10 without any hints.
+
+### R1D33
+Continued with Personal Diary Blog App. Completed Challenges 11-15 without any hints.
