@@ -260,3 +260,11 @@
 **Thoughts:** Was able to get a lot of things done today. Finally got a hang of EJS after some practice and working on the challenges is going great. So far no hints required.
 
 **Link to work:** [TODO List App](https://github.com/harshit-saraswat/TODO-List-App), [Personal Diary Blog](https://github.com/harshit-saraswat/Personal-Blog-Diary-Website)
+
+### Day 33: August 5, 2020 
+
+**Today's Progress**: Continued with Personal Diary Blog App Challenge. Completed Challenges 11-15. Started working with express route parameters.
+
+**Thoughts:** The project is going great with almost no troubles. Might finish it within this week.
+
+**Link to work:** [Personal Diary Blog](https://github.com/harshit-saraswat/Personal-Blog-Diary-Website)
