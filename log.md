@@ -268,3 +268,11 @@
 **Thoughts:** The project is going great with almost no troubles. Might finish it within this week.
 
 **Link to work:** [Personal Diary Blog](https://github.com/harshit-saraswat/Personal-Blog-Diary-Website)
+
+### Day 34: August 6, 2020 
+
+**Today's Progress**: Continued with Personal Diary Blog App Challenge. Completed the project. The project seems to work like an actual project. It's not just the static websites anymore. Started with Databases.
+
+**Thoughts:** Feels great to finally be able to call myself a full stack web developer. Especially now that I know how to work with different parts of a web application.
+
+**Link to work:** [Personal Diary Blog](https://github.com/harshit-saraswat/Personal-Blog-Diary-Website)
