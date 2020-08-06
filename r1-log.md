@@ -102,3 +102,6 @@ Completed TODO List APP v1. Started with Personal Diary Blog App. Completed Chal
 
 ### R1D33
 Continued with Personal Diary Blog App. Completed Challenges 11-15 without any hints.
+
+### R1D34
+Continued with Personal Diary Blog App. Completed the project.
