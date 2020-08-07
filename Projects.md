@@ -9,6 +9,7 @@
 8. [Newsletter-Signup App](https://github.com/harshit-saraswat/Newsletter-Signup)
 9. [TODO List App](https://github.com/harshit-saraswat/TODO-List-App)
 10. [Personal Blog Diary](https://github.com/harshit-saraswat/Personal-Blog-Diary-Website)
+11. [Simple-Blog-w-Flask](https://github.com/harshit-saraswat/Simple-Blog-w-Flask)
 
 # Code and Practice:
 1. [JS-Practice](https://github.com/harshit-saraswat/javascript-practice)
