@@ -276,3 +276,11 @@
 **Thoughts:** Feels great to finally be able to call myself a full stack web developer. Especially now that I know how to work with different parts of a web application.
 
 **Link to work:** [Personal Diary Blog](https://github.com/harshit-saraswat/Personal-Blog-Diary-Website)
+
+### Day 35: August 7, 2020 
+
+**Today's Progress**: Completed Practicing SQL Database CRUD Operations. Worked with joins, constraints and advanced SQL Queries. Used MySQL DB for it. Also started with MongoDB and a new Flask based Web App - Simple Blog with Flask.
+
+**Thoughts:** Having dealt with DBs before gave me an upperhand in this lesson. Also, working on a full fledged web app with flask as a backend is really interesting.
+
+**Link to work:** [Simple-Blog-w-FLask](https://github.com/harshit-saraswat/Simple-Blog-w-Flask)
