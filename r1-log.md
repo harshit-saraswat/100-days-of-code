@@ -105,3 +105,6 @@ Continued with Personal Diary Blog App. Completed Challenges 11-15 without any h
 
 ### R1D34
 Continued with Personal Diary Blog App. Completed the project.
+
+### R1D35
+Completed working with SQL. Started with Simple-Blog-w-Flask App and MongoDB.
