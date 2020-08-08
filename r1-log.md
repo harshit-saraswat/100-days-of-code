@@ -108,3 +108,6 @@ Continued with Personal Diary Blog App. Completed the project.
 
 ### R1D35
 Completed working with SQL. Started with Simple-Blog-w-Flask App and MongoDB.
+
+### R1D36
+Completed working with MongoDB Shell and worked with Native MongoDB Driver for NodeJS. Added Templates and layouts in Simple-Blog-w-Flask.
