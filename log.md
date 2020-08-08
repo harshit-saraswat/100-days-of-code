@@ -284,3 +284,11 @@
 **Thoughts:** Having dealt with DBs before gave me an upperhand in this lesson. Also, working on a full fledged web app with flask as a backend is really interesting.
 
 **Link to work:** [Simple-Blog-w-FLask](https://github.com/harshit-saraswat/Simple-Blog-w-Flask)
+
+### Day 36: August 8, 2020 
+
+**Today's Progress**: Continued Working with MongoDB and practiced CRUD in MongoDB Shell. Also worked with Native MongoDB Driver for Node.js. Also, worked on Simple Flask Blog App. Added Templates, Layouts and CSS to code with variable passing. It's similar to what we did in EJS in NodeJS and ExpressJS servers.
+
+**Thoughts:** MongoDB has changed it's documentation a lot since the tutorial went out and still has some deprecation warnings to had some trouble following the tutorials and had to google a lot for solutions, but in the end was able to follow it easily. Also, Flask and EJS have similar working so it was easy to go through the first few tutorials.
+
+**Link to work:** [Native MongoDB Driver Practice](https://github.com/harshit-saraswat/javascript-practice/tree/master/Native%20MongoDB%20Driver), [Simple-Blog-w-FLask](https://github.com/harshit-saraswat/Simple-Blog-w-Flask)
