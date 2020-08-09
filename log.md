@@ -292,3 +292,11 @@
 **Thoughts:** MongoDB has changed it's documentation a lot since the tutorial went out and still has some deprecation warnings to had some trouble following the tutorials and had to google a lot for solutions, but in the end was able to follow it easily. Also, Flask and EJS have similar working so it was easy to go through the first few tutorials.
 
 **Link to work:** [Native MongoDB Driver Practice](https://github.com/harshit-saraswat/javascript-practice/tree/master/Native%20MongoDB%20Driver), [Simple-Blog-w-FLask](https://github.com/harshit-saraswat/Simple-Blog-w-Flask)
+
+### Day 37: August 9, 2020 
+
+**Today's Progress**: Today, instead of spending time on coding, I took some time to document my projects and improve Readme.md files of most of my github repos during the 100DaysOfCode Challenge. A well written documentation is also a necessary skill towards being a great software developer and I'm glad that I'm working towards improving it too.
+
+**Thoughts:** I had been postponing documenting code for so long and finally got the chance to do it. Glad that I was able to complete most of my newer repos. Will look forward to improving documentations in future too.
+
+**Link to work:** [GitHub](https://github.com/harshit-saraswat)
