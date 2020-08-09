@@ -111,3 +111,6 @@ Completed working with SQL. Started with Simple-Blog-w-Flask App and MongoDB.
 
 ### R1D36
 Completed working with MongoDB Shell and worked with Native MongoDB Driver for NodeJS. Added Templates and layouts in Simple-Blog-w-Flask.
+
+### R1D37
+Completed Code Documentations and Readme.md files for most github repos in this course.
