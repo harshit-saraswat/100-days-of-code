@@ -114,3 +114,6 @@ Completed working with MongoDB Shell and worked with Native MongoDB Driver for N
 
 ### R1D37
 Completed Code Documentations and Readme.md files for most github repos in this course.
+
+### R1D38
+Continued working on Simple Blog With Flask Website. Added Register and Login Forms completely.
