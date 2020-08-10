@@ -300,3 +300,12 @@
 **Thoughts:** I had been postponing documenting code for so long and finally got the chance to do it. Glad that I was able to complete most of my newer repos. Will look forward to improving documentations in future too.
 
 **Link to work:** [GitHub](https://github.com/harshit-saraswat)
+
+### Day 38: August 10, 2020 
+
+**Today's Progress**: Continued Working on Simple Blog With Flask App. Added Register and Login Routes with forms, validations and success/failure redirections.
+
+**Thoughts:** Jinja2 has a lengthy coding convention as compared to EJS, but working on it isn't that difficult as I initially thought. My skills with flask and Jinja2 Logics are definitely improving.
+
+**Link to work:** [Simple-Blog-w-FLask](https://github.com/harshit-saraswat/Simple-Blog-w-Flask)
+
