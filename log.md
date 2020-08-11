@@ -309,3 +309,10 @@
 
 **Link to work:** [Simple-Blog-w-FLask](https://github.com/harshit-saraswat/Simple-Blog-w-Flask)
 
+### Day 39: August 11, 2020 
+
+**Today's Progress**: Continued Working on Simple Blog With Flask App. Added SQLAlchemy for databse support. Implemented User and Post model and established relationship.
+
+**Thoughts:** SQLAlchemy is a different approach towards working with databases and thus might get a little confusing for people working with regular SQL Scripts, but is infact much easier to use and implement. The syntax might be confusing though. I've been wanting to work with it for long and glad that I finally was able to do so.
+
+**Link to work:** [Simple-Blog-w-FLask](https://github.com/harshit-saraswat/Simple-Blog-w-Flask)
