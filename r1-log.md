@@ -117,3 +117,6 @@ Completed Code Documentations and Readme.md files for most github repos in this 
 
 ### R1D38
 Continued working on Simple Blog With Flask Website. Added Register and Login Forms completely.
+
+### R1D39
+Continued working on Simple Blog With Flask Website. Added User and Post Models for SQLAlchemy Database.
