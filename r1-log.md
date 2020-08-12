@@ -120,3 +120,7 @@ Continued working on Simple Blog With Flask Website. Added Register and Login Fo
 
 ### R1D39
 Continued working on Simple Blog With Flask Website. Added User and Post Models for SQLAlchemy Database.
+
+### R1D40
+Continued working on Simple Blog With Flask Website. Applied Code Reformatting and Package Restructuring.
+
