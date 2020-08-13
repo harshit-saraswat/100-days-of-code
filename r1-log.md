@@ -124,3 +124,6 @@ Continued working on Simple Blog With Flask Website. Added User and Post Models 
 ### R1D40
 Continued working on Simple Blog With Flask Website. Applied Code Reformatting and Package Restructuring.
 
+### R1D41
+Continued working on Simple Blog With Flask Website. Added DB to Register and Login Routes and implemented authentication/authorization.
+
