@@ -324,3 +324,11 @@
 **Thoughts:** Following the MVC architecture in this project. Finally I achieve this.
 
 **Link to work:** [Simple-Blog-w-FLask](https://github.com/harshit-saraswat/Simple-Blog-w-Flask)
+
+### Day 41: August 13, 2020 
+
+**Today's Progress**: Continued Working on Simple Blog With Flask App. Added Database to Register and Login Routes. Implemented User Authentication and Authorization for various routes.
+
+**Thoughts:** Never through user authentication and authorization would be so easy with flask. Glad that I'm finally able to achieve this superpower!
+
+**Link to work:** [Simple-Blog-w-FLask](https://github.com/harshit-saraswat/Simple-Blog-w-Flask)
