@@ -127,3 +127,6 @@ Continued working on Simple Blog With Flask Website. Applied Code Reformatting a
 ### R1D41
 Continued working on Simple Blog With Flask Website. Added DB to Register and Login Routes and implemented authentication/authorization.
 
+### R1D42
+Worked with Mongoose for MongoDB in NodeJS. Implemented CRUD for a fruits DB.
+
