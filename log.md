@@ -332,3 +332,11 @@
 **Thoughts:** Never through user authentication and authorization would be so easy with flask. Glad that I'm finally able to achieve this superpower!
 
 **Link to work:** [Simple-Blog-w-FLask](https://github.com/harshit-saraswat/Simple-Blog-w-Flask)
+
+### Day 42: August 14, 2020 
+
+**Today's Progress**: Worked with Mongoose for MongoDB in NodeJS. Implemented a basic FruitsDB. Implemented CRUD Operations and Relationships between documents. 
+
+**Thoughts:** The ever changing documentation and features of MongoDB made me figure stuff out on my own a lot even though the course tutorial si fairly new. It's good pratice.
+
+**Link to work:** [JS Practice](https://github.com/harshit-saraswat/javascript-practice)
