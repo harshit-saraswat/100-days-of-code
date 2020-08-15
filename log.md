@@ -340,3 +340,11 @@
 **Thoughts:** The ever changing documentation and features of MongoDB made me figure stuff out on my own a lot even though the course tutorial si fairly new. It's good pratice.
 
 **Link to work:** [JS Practice](https://github.com/harshit-saraswat/javascript-practice)
+
+### Day 43: August 15, 2020 
+
+**Today's Progress**: Continued working on Simple Flask Blog App. Completed User Accounts Section. Added User Details, Update Account Details and Updte Profile Picture Functionality with all the necessary validations.
+
+**Thoughts:** Never thought updating and working with user accounts will be so easy in flask. Glad to finally moved from writing multiple sql statements to just using simple SQLAlchemy syntax.
+
+**Link to work:** [Simple-Blog-w-FLask](https://github.com/harshit-saraswat/Simple-Blog-w-Flask)
