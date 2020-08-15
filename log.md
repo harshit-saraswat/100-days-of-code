@@ -343,7 +343,7 @@
 
 ### Day 43: August 15, 2020 
 
-**Today's Progress**: Continued working on Simple Flask Blog App. Completed User Accounts Section. Added User Details, Update Account Details and Updte Profile Picture Functionality with all the necessary validations.
+**Today's Progress**: Continued working on Simple Flask Blog App. Completed User Accounts Section. Added User Details, Update Account Details and Update Profile Picture Functionality with all the necessary validations.
 
 **Thoughts:** Never thought updating and working with user accounts will be so easy in flask. Glad to finally moved from writing multiple sql statements to just using simple SQLAlchemy syntax.
 
