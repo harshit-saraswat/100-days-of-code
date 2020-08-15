@@ -130,3 +130,6 @@ Continued working on Simple Blog With Flask Website. Added DB to Register and Lo
 ### R1D42
 Worked with Mongoose for MongoDB in NodeJS. Implemented CRUD for a fruits DB.
 
+### R1D43
+Worked on Simple Flask Blog App. Completed Accounts Section with account details and update functionality.
+
