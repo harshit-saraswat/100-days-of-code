@@ -133,3 +133,5 @@ Worked with Mongoose for MongoDB in NodeJS. Implemented CRUD for a fruits DB.
 ### R1D43
 Worked on Simple Flask Blog App. Completed Accounts Section with account details and update functionality.
 
+### R1D44
+Worked on Simple Flask Blog App. Added CRUD for Posts with validations.
