@@ -348,3 +348,11 @@
 **Thoughts:** Never thought updating and working with user accounts will be so easy in flask. Glad to finally moved from writing multiple sql statements to just using simple SQLAlchemy syntax.
 
 **Link to work:** [Simple-Blog-w-FLask](https://github.com/harshit-saraswat/Simple-Blog-w-Flask)
+
+### Day 44: August 16, 2020 
+
+**Today's Progress**: Continued working on Simple Flask Blog App. Added Post Creating, Listing, Viewing, Updating and Deleting functionalities with all the neccessary validations.
+
+**Thoughts:** Working with Flask App is going pretty smooth though taking time out is geting tougher with increased work load from office and other personal commitments.
+
+**Link to work:** [Simple-Blog-w-FLask](https://github.com/harshit-saraswat/Simple-Blog-w-Flask)
