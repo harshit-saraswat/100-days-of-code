@@ -356,3 +356,11 @@
 **Thoughts:** Working with Flask App is going pretty smooth though taking time out is geting tougher with increased work load from office and other personal commitments.
 
 **Link to work:** [Simple-Blog-w-FLask](https://github.com/harshit-saraswat/Simple-Blog-w-Flask)
+
+### Day 45: August 17, 2020 
+
+**Today's Progress**: Continued working on Simple Flask Blog App. Added pagination for posts and implemented user-posts viewing option with pagination too.
+
+**Thoughts:** Paginating took me a long time on JS and it's fairly simple here in flask. Definitely a great asset!
+
+**Link to work:** [Simple-Blog-w-FLask](https://github.com/harshit-saraswat/Simple-Blog-w-Flask)
