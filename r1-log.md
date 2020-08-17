@@ -135,3 +135,6 @@ Worked on Simple Flask Blog App. Completed Accounts Section with account details
 
 ### R1D44
 Worked on Simple Flask Blog App. Added CRUD for Posts with validations.
+
+### R1D45
+Worked on Simple Flask Blog App. Added Paginations for Posts and User Posts Viewing with pagination.
