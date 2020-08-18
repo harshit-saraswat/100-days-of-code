@@ -138,3 +138,6 @@ Worked on Simple Flask Blog App. Added CRUD for Posts with validations.
 
 ### R1D45
 Worked on Simple Flask Blog App. Added Paginations for Posts and User Posts Viewing with pagination.
+
+### R1D46
+Worked on Simple Flask Blog App. Started Working on Request Password Reset and Reset Password Routes.
