@@ -364,3 +364,11 @@
 **Thoughts:** Paginating took me a long time on JS and it's fairly simple here in flask. Definitely a great asset!
 
 **Link to work:** [Simple-Blog-w-FLask](https://github.com/harshit-saraswat/Simple-Blog-w-Flask)
+
+### Day 46: August 18, 2020 
+
+**Today's Progress**: Continued working on Simple Flask Blog App. Added UI for Request Password Reset and Password Reset Routes. Set up mail server using flask.
+
+**Thoughts:** Got less time to work today due to heavy work. Rsetting Passwords through tokens is what I've been wanting to learn for a long time now.
+
+**Link to work:** [Simple-Blog-w-FLask](https://github.com/harshit-saraswat/Simple-Blog-w-Flask)
