@@ -141,3 +141,6 @@ Worked on Simple Flask Blog App. Added Paginations for Posts and User Posts View
 
 ### R1D46
 Worked on Simple Flask Blog App. Started Working on Request Password Reset and Reset Password Routes.
+
+### R1D47
+Worked on Simple Flask Blog App. Setup Flask Mail Server and Implemented Custom Mail sending for resetting passwords.
