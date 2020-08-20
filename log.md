@@ -380,3 +380,11 @@
 **Thoughts:** Skill Unlocked: Reset Password Links generation. This is one of those simplest things I had a hard time to do. Glad to have learnt it.
 
 **Link to work:** [Simple-Blog-w-FLask](https://github.com/harshit-saraswat/Simple-Blog-w-Flask)
+
+### Day 48: August 20, 2020 
+
+**Today's Progress**: Continued working on Simple Flask Blog App. Started working on project restructuring using flask blueprints and utilities. 
+
+**Thoughts:** Restructuring and reformatting code is a great programming practice. Learnt it the hard way myself.
+
+**Link to work:** [Simple-Blog-w-FLask](https://github.com/harshit-saraswat/Simple-Blog-w-Flask)
