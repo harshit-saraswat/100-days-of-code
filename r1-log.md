@@ -144,3 +144,6 @@ Worked on Simple Flask Blog App. Started Working on Request Password Reset and R
 
 ### R1D47
 Worked on Simple Flask Blog App. Setup Flask Mail Server and Implemented Custom Mail sending for resetting passwords.
+
+### R1D48
+Worked on Simple Flask Blog App. Started with Project Restructuring and Blueprints
