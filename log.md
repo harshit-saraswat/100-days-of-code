@@ -388,3 +388,11 @@
 **Thoughts:** Restructuring and reformatting code is a great programming practice. Learnt it the hard way myself.
 
 **Link to work:** [Simple-Blog-w-FLask](https://github.com/harshit-saraswat/Simple-Blog-w-Flask)
+
+### Day 49: August 21, 2020 
+
+**Today's Progress**: Continued working on Simple Flask Blog App. Completely implemented Flask Blueprints, code cleanup and refactoring/reformatting for better readability and management. 
+
+**Thoughts:** Finally finished the tedious but necessary part of coding. A must have skill for all!
+
+**Link to work:** [Simple-Blog-w-FLask](https://github.com/harshit-saraswat/Simple-Blog-w-Flask)
