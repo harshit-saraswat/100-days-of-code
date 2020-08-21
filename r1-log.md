@@ -147,3 +147,6 @@ Worked on Simple Flask Blog App. Setup Flask Mail Server and Implemented Custom 
 
 ### R1D48
 Worked on Simple Flask Blog App. Started with Project Restructuring and Blueprints
+
+### R1D49
+Worked on Simple Flask Blog App. Implemented Blueprints and code cleanup.
