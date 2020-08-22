@@ -150,3 +150,7 @@ Worked on Simple Flask Blog App. Started with Project Restructuring and Blueprin
 
 ### R1D49
 Worked on Simple Flask Blog App. Implemented Blueprints and code cleanup.
+
+### R1D50
+Worked on Simple Flask Blog App. Added App creation and config files. Fixed minor bugs. 
+
