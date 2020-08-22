@@ -396,3 +396,11 @@
 **Thoughts:** Finally finished the tedious but necessary part of coding. A must have skill for all!
 
 **Link to work:** [Simple-Blog-w-FLask](https://github.com/harshit-saraswat/Simple-Blog-w-Flask)
+
+### Day 50: August 22, 2020 
+
+**Today's Progress**: Continued working on Simple Flask Blog App. Added app config files, fixed minor bugs, implemented dynamic app creation for different configs. 
+
+**Thoughts:** Almost done with the website. Now custom error pages to go!
+
+**Link to work:** [Simple-Blog-w-FLask](https://github.com/harshit-saraswat/Simple-Blog-w-Flask)
