@@ -404,3 +404,11 @@
 **Thoughts:** Almost done with the website. Now custom error pages to go!
 
 **Link to work:** [Simple-Blog-w-FLask](https://github.com/harshit-saraswat/Simple-Blog-w-Flask)
+
+### Day 51: August 23, 2020 
+
+**Today's Progress**: Continued working on Simple Flask Blog App. Added UI for custom error pages and created a flask error handler blueprint to handle different categories of errors!
+
+**Thoughts:** Almost done with the website. Now some refinements left!
+
+**Link to work:** [Simple-Blog-w-FLask](https://github.com/harshit-saraswat/Simple-Blog-w-Flask)
