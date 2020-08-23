@@ -154,3 +154,6 @@ Worked on Simple Flask Blog App. Implemented Blueprints and code cleanup.
 ### R1D50
 Worked on Simple Flask Blog App. Added App creation and config files. Fixed minor bugs. 
 
+### R1D51
+Worked on Simple Flask Blog App. Added Custom Error Pages.
+
