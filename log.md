@@ -412,3 +412,11 @@
 **Thoughts:** Almost done with the website. Now some refinements left!
 
 **Link to work:** [Simple-Blog-w-FLask](https://github.com/harshit-saraswat/Simple-Blog-w-Flask)
+
+### Day 52: August 24, 2020 
+
+**Today's Progress**: Continued working on Simple Flask Blog App. Implemented Login Required Condition for multiple routes. Added About Page. Minor Improvements. Finished with website.
+
+**Thoughts:** Finally the website is completed. It took me a few days, but now it's done. Will spend 1 last day for Readme file before wrapping it up.
+
+**Link to work:** [Simple-Blog-w-FLask](https://github.com/harshit-saraswat/Simple-Blog-w-Flask)
