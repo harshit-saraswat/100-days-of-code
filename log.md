@@ -420,3 +420,11 @@
 **Thoughts:** Finally the website is completed. It took me a few days, but now it's done. Will spend 1 last day for Readme file before wrapping it up.
 
 **Link to work:** [Simple-Blog-w-FLask](https://github.com/harshit-saraswat/Simple-Blog-w-Flask)
+
+### Day 53: August 25, 2020 
+
+**Today's Progress**: Continued working on Simple Flask Blog App. Completed working on this project. Added Requirements File and a rich Readme.md file.
+
+**Thoughts:** Project Finished now on to a personal resume project.
+
+**Link to work:** [Simple-Blog-w-FLask](https://github.com/harshit-saraswat/Simple-Blog-w-Flask)
