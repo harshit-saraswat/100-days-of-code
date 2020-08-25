@@ -160,3 +160,6 @@ Worked on Simple Flask Blog App. Added Custom Error Pages.
 ### R1D52
 Worked on Simple Flask Blog App. Implemented Login Required conditions and added About Page. Done with this website.
 
+### R1D53
+Completed working on Simple Flask Blog App Website. Added Requirements File and a rich Readme.md file
+
