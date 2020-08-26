@@ -163,3 +163,6 @@ Worked on Simple Flask Blog App. Implemented Login Required conditions and added
 ### R1D53
 Completed working on Simple Flask Blog App Website. Added Requirements File and a rich Readme.md file
 
+### R1D54
+Started working on MyProjectsPortfolio. Added ongoing Projects and various sections.
+
