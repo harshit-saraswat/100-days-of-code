@@ -428,3 +428,11 @@
 **Thoughts:** Project Finished now on to a personal resume project.
 
 **Link to work:** [Simple-Blog-w-FLask](https://github.com/harshit-saraswat/Simple-Blog-w-Flask)
+
+### Day 54: August 26, 2020 
+
+**Today's Progress**: Started working on MyProjectsPortfolio. Added Ongoing Projects and some sections for the readme. I aim to create a detail rich readme for all my projects and use it as a portfolio.
+
+**Thoughts:** Working on something which isn't actually about coding but more about how I maintain my codes and projects. A good skill no doubt.
+
+**Link to work:** No Links Yet
