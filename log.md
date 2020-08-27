@@ -436,3 +436,11 @@
 **Thoughts:** Working on something which isn't actually about coding but more about how I maintain my codes and projects. A good skill no doubt.
 
 **Link to work:** No Links Yet
+
+### Day 55: August 27, 2020 
+
+**Today's Progress**: Continued working on MyProjectsPortfolio. Added Projects for CV,NLP,ML, Timeseries sections and a blog post too. Almost done with Projects for AI-ML Section.
+
+**Thoughts:** It's taking longer than expected. And I thought it I've done a lot of projects, but not many of them are worth showcasing. Gotta Up my game!
+
+**Link to work:** No Links Yet
