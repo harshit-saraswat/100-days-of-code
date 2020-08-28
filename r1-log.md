@@ -168,3 +168,6 @@ Started working on MyProjectsPortfolio. Added ongoing Projects and various secti
 
 ### R1D55
 Continued working on MyProjectsPortfolio. Almost done with AI-ML Projects Section.
+
+### R1D56
+Continued working on MyProjectsPortfolio. Almost done with all the sections.
