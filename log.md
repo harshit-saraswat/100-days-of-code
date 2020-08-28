@@ -444,3 +444,11 @@
 **Thoughts:** It's taking longer than expected. And I thought it I've done a lot of projects, but not many of them are worth showcasing. Gotta Up my game!
 
 **Link to work:** No Links Yet
+
+### Day 56: August 28, 2020 
+
+**Today's Progress**: Continued working on MyProjectsPortfolio. Added Projects for Web Development, Android App Development, Others Sections. Almost done with Projects for all the sections.
+
+**Thoughts:** Almost done.
+
+**Link to work:** [MyProjectsPortfolio](https://github.com/harshit-saraswat/MyProjectsPortfolio)
