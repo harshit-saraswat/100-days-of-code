@@ -171,3 +171,6 @@ Continued working on MyProjectsPortfolio. Almost done with AI-ML Projects Sectio
 
 ### R1D56
 Continued working on MyProjectsPortfolio. Almost done with all the sections.
+
+### R1D57
+Made Updates to ToDo List App. Started Adding DB functionality.
