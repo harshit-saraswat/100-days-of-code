@@ -452,3 +452,11 @@
 **Thoughts:** Almost done.
 
 **Link to work:** [MyProjectsPortfolio](https://github.com/harshit-saraswat/MyProjectsPortfolio)
+
+### Day 57: August 29, 2020 
+
+**Today's Progress**: Added Updates to TodoListApp. Started Adding Database Functionality. Read Items and Adding Items done.
+
+**Thoughts:** Started maintaining a separate version of app and managing a new branch of the app on github. Adding a DB functionality is a good thing, but don't wanna mess up the earlier version either.
+
+**Link to work:** [Todo-List-App](https://github.com/harshit-saraswat/TODO-List-App)
