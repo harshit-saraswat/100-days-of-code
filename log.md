@@ -460,3 +460,11 @@
 **Thoughts:** Started maintaining a separate version of app and managing a new branch of the app on github. Adding a DB functionality is a good thing, but don't wanna mess up the earlier version either.
 
 **Link to work:** [Todo-List-App](https://github.com/harshit-saraswat/TODO-List-App)
+
+### Day 58: August 30, 2020 
+
+**Today's Progress**: Added Updates to TodoListApp. Added Functionality for Deleting items from current list, Adding New Lists woth custom names.
+
+**Thoughts:** This thing is taking shape to a full fledged project. Will maybe use it myself for future!
+
+**Link to work:** [Todo-List-App](https://github.com/harshit-saraswat/TODO-List-App)
