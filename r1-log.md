@@ -174,3 +174,6 @@ Continued working on MyProjectsPortfolio. Almost done with all the sections.
 
 ### R1D57
 Made Updates to ToDo List App. Started Adding DB functionality.
+
+### R1D58
+Continued working on Todo List App. Added Delete Items and Custom List Creation.
