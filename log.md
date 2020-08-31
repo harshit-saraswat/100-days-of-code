@@ -468,3 +468,11 @@
 **Thoughts:** This thing is taking shape to a full fledged project. Will maybe use it myself for future!
 
 **Link to work:** [Todo-List-App](https://github.com/harshit-saraswat/TODO-List-App)
+
+### Day 59: August 31, 2020 
+
+**Today's Progress**: Added Updates to TodoListApp. Added Functionality for adding items to custom list and deleting items from custom lists with db updates.
+
+**Thoughts:** Almost over now some basic fixes left.
+
+**Link to work:** [Todo-List-App](https://github.com/harshit-saraswat/TODO-List-App)
