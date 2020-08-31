@@ -177,3 +177,6 @@ Made Updates to ToDo List App. Started Adding DB functionality.
 
 ### R1D58
 Continued working on Todo List App. Added Delete Items and Custom List Creation.
+
+### R1D59
+Continued working on Todo List App. Added Add and Delete items from custom lists.
