@@ -476,3 +476,11 @@
 **Thoughts:** Almost over now some basic fixes left.
 
 **Link to work:** [Todo-List-App](https://github.com/harshit-saraswat/TODO-List-App)
+
+### Day 60: September 01, 2020 
+
+**Today's Progress**: Added Updates to TodoListApp. Fixed bugs across the application, UI issues resolved, url parameters fixed, issue with different case of url params fixed.
+
+**Thoughts:** Completed the app finally!
+
+**Link to work:** [Todo-List-App](https://github.com/harshit-saraswat/TODO-List-App)
