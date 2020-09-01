@@ -180,3 +180,6 @@ Continued working on Todo List App. Added Delete Items and Custom List Creation.
 
 ### R1D59
 Continued working on Todo List App. Added Add and Delete items from custom lists.
+
+### R1D60
+Continued working on Todo List App. Fixed Bugs and Updated URL parameters. Completed the ToDo List App.
