@@ -484,3 +484,11 @@
 **Thoughts:** Completed the app finally!
 
 **Link to work:** [Todo-List-App](https://github.com/harshit-saraswat/TODO-List-App)
+
+### Day 61: September 02, 2020 
+
+**Today's Progress**: Added Updates to Personal Diary Blog App. Added Database Connectivity and Functionality and finished v2.
+
+**Thoughts:** Now the app is more usable than ever!
+
+**Link to work:** [Personal-Diary-Blog](https://github.com/harshit-saraswat/Personal-Blog-Diary-Website)
