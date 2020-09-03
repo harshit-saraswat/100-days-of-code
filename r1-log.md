@@ -186,3 +186,6 @@ Continued working on Todo List App. Fixed Bugs and Updated URL parameters. Compl
 
 ### R1D61
 Made updates to Personal Diary Blog App for Database connectivity and functionality.
+
+### R1D62
+Started working on REST-API-NodeJS Project. Added API to get all articles.
