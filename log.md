@@ -492,3 +492,11 @@
 **Thoughts:** Now the app is more usable than ever!
 
 **Link to work:** [Personal-Diary-Blog](https://github.com/harshit-saraswat/Personal-Blog-Diary-Website)
+
+### Day 62: September 03, 2020 
+
+**Today's Progress**: Started working on a new project called REST-API-NodeJS to get a deeper dive into backend and server side code using NodeJS. The simple app helps in implementing REST APIs for simple Wikipedia operations and uses MongoDB for database operations. Added API to get all articles with error handelling.
+
+**Thoughts:** Working with APIs in NodeJS is similar to that in Python-Flask as they follow similar syntax. It's a good skill to have for sure!
+
+**Link to work:** [REST-API-NodeJS](https://github.com/harshit-saraswat/REST-API-NodeJS)
