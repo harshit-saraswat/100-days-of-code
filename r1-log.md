@@ -189,3 +189,6 @@ Made updates to Personal Diary Blog App for Database connectivity and functional
 
 ### R1D62
 Started working on REST-API-NodeJS Project. Added API to get all articles.
+
+### R1D63
+Continued working on REST-API-NodeJS Project. Added all types of APIs.
