@@ -500,3 +500,11 @@
 **Thoughts:** Working with APIs in NodeJS is similar to that in Python-Flask as they follow similar syntax. It's a good skill to have for sure!
 
 **Link to work:** [REST-API-NodeJS](https://github.com/harshit-saraswat/REST-API-NodeJS)
+
+### Day 63: September 04, 2020 
+
+**Today's Progress**: Continued working on REST-API-NodeJS. Completed the project. Added all APIs- GET,POST,DELETE,PUT,PATCH for all and individual articles.
+
+**Thoughts:** Never worked with patch apis before. It was an amazing skill to learn and easier to implement with MongoDB and NodeJS-ExpressJS. Looking for similar things in SQL and Python for sure.
+
+**Link to work:** [REST-API-NodeJS](https://github.com/harshit-saraswat/REST-API-NodeJS)
