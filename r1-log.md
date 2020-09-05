@@ -192,3 +192,6 @@ Started working on REST-API-NodeJS Project. Added API to get all articles.
 
 ### R1D63
 Continued working on REST-API-NodeJS Project. Added all types of APIs.
+
+### R1D64
+Started working on Secrets-App for Authentication Practice. Added Level 1 Authentication using User Registration and Login using email and password.
