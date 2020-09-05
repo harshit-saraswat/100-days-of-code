@@ -508,3 +508,11 @@
 **Thoughts:** Never worked with patch apis before. It was an amazing skill to learn and easier to implement with MongoDB and NodeJS-ExpressJS. Looking for similar things in SQL and Python for sure.
 
 **Link to work:** [REST-API-NodeJS](https://github.com/harshit-saraswat/REST-API-NodeJS)
+
+### Day 64: September 05, 2020 
+
+**Today's Progress**: Started working on Secrets-App for Authentication Practices in Web Development. Added Level 1 Authentication by implementing User Registration and Login using Email and Passwords.
+
+**Thoughts:** Authentication is one of the biggest features of any website. The course teaches 6 levels. Done with 1st level and moving to more now.
+
+**Link to work:** [Secrets-App](https://github.com/harshit-saraswat/Secrets-App)
