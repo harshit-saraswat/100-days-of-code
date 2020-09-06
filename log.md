@@ -516,3 +516,11 @@
 **Thoughts:** Authentication is one of the biggest features of any website. The course teaches 6 levels. Done with 1st level and moving to more now.
 
 **Link to work:** [Secrets-App](https://github.com/harshit-saraswat/Secrets-App)
+
+### Day 65: September 06, 2020 
+
+**Today's Progress**: Continued working on Secrets-App for Authentication Practices in Web Development. Added Level 2 Authentication by implementing Data Encryption and Level 3 Authentication by implementing Password Hashing.
+
+**Thoughts:** As I dive deeper into the series I realise how easy it is to pwn someone with the right resources and strategies.
+
+**Link to work:** [Secrets-App](https://github.com/harshit-saraswat/Secrets-App)
