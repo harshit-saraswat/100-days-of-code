@@ -198,3 +198,6 @@ Started working on Secrets-App for Authentication Practice. Added Level 1 Authen
 
 ### R1D65
 Contnued working on Secrets-App for Authentication Practice. Added Level 2 Authentication using Data Encryption and Level 3 Authentication using Hashing.
+
+### R1D66
+Contnued working on Secrets-App for Authentication Practice. Added Level 4 Authentication using Bcrypt based Hashing and Salting of Passwords.
