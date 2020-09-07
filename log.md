@@ -524,3 +524,11 @@
 **Thoughts:** As I dive deeper into the series I realise how easy it is to pwn someone with the right resources and strategies.
 
 **Link to work:** [Secrets-App](https://github.com/harshit-saraswat/Secrets-App)
+
+### Day 66: September 07, 2020 
+
+**Today's Progress**: Continued working on Secrets-App for Authentication Practices in Web Development. Added Level 4 Authentication by implementing Bcrypt based Hashing and Salting of passwords. Started working on Cookies and Sessions for Level 5 Authentication
+
+**Thoughts:** Now onto Cookies and Sessions, the hardest part for me.
+
+**Link to work:** [Secrets-App](https://github.com/harshit-saraswat/Secrets-App)
