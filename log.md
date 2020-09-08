@@ -527,8 +527,16 @@
 
 ### Day 66: September 07, 2020 
 
-**Today's Progress**: Continued working on Secrets-App for Authentication Practices in Web Development. Added Level 4 Authentication by implementing Bcrypt based Hashing and Salting of passwords. Started working on Cookies and Sessions for Level 5 Authentication
+**Today's Progress**: Continued working on Secrets-App for Authentication Practices in Web Development. Added Level 4 Authentication by implementing Bcrypt based Hashing and Salting of passwords. Started working on Cookies and Sessions for Level 5 Authentication.
 
 **Thoughts:** Now onto Cookies and Sessions, the hardest part for me.
+
+**Link to work:** [Secrets-App](https://github.com/harshit-saraswat/Secrets-App)
+
+### Day 67: September 08, 2020 
+
+**Today's Progress**: Continued working on Secrets-App for Authentication Practices in Web Development. Completed Level 5 Authentication by implementing Cookies and Sessions using PassportJS.
+
+**Thoughts:** Cookies and Sessions are confusing and theres still so many things I need to go through once this is done.
 
 **Link to work:** [Secrets-App](https://github.com/harshit-saraswat/Secrets-App)
