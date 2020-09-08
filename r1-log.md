@@ -201,3 +201,6 @@ Contnued working on Secrets-App for Authentication Practice. Added Level 2 Authe
 
 ### R1D66
 Contnued working on Secrets-App for Authentication Practice. Added Level 4 Authentication using Bcrypt based Hashing and Salting of Passwords.
+
+### R1D67
+Contnued working on Secrets-App for Authentication Practice. Completed Level 5 Authentication using Cookies and Sessions using PassportJS.
