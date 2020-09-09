@@ -540,3 +540,11 @@
 **Thoughts:** Cookies and Sessions are confusing and theres still so many things I need to go through once this is done.
 
 **Link to work:** [Secrets-App](https://github.com/harshit-saraswat/Secrets-App)
+
+### Day 68: September 09, 2020 
+
+**Today's Progress**: Continued working on Secrets-App for Authentication Practices in Web Development. Started implementing Level 6 Authentication using Google OAuth 2.0. Completed Server Setup and Page Redirection for OAuth Client.
+
+**Thoughts:** OAuth seems interesting, once done will definitely study more Oauth ways like facebook, linkedin, github, twitter, etc.
+
+**Link to work:** [Secrets-App](https://github.com/harshit-saraswat/Secrets-App)
