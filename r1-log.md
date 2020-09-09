@@ -204,3 +204,6 @@ Contnued working on Secrets-App for Authentication Practice. Added Level 4 Authe
 
 ### R1D67
 Contnued working on Secrets-App for Authentication Practice. Completed Level 5 Authentication using Cookies and Sessions using PassportJS.
+
+### R1D68
+Contnued working on Secrets-App for Authentication Practice. Server Setup for Google OAuth 2.0 Authentication for Level 6 Authentication done.
