@@ -548,3 +548,11 @@
 **Thoughts:** OAuth seems interesting, once done will definitely study more Oauth ways like facebook, linkedin, github, twitter, etc.
 
 **Link to work:** [Secrets-App](https://github.com/harshit-saraswat/Secrets-App)
+
+### Day 69: September 10, 2020 
+
+**Today's Progress**: Continued working on Secrets-App for Authentication Practices in Web Development. Completed implementing Level 6 Authentication using Google OAuth 2.0 and completed app by adding minimal UI to view secrets by different people.
+
+**Thoughts:** This is one of the toughest things I've done till now in the course. Might need to go over it again in future!
+
+**Link to work:** [Secrets-App](https://github.com/harshit-saraswat/Secrets-App)
