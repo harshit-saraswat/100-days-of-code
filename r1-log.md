@@ -207,3 +207,6 @@ Contnued working on Secrets-App for Authentication Practice. Completed Level 5 A
 
 ### R1D68
 Contnued working on Secrets-App for Authentication Practice. Server Setup for Google OAuth 2.0 Authentication for Level 6 Authentication done.
+
+### R1D69
+Contnued working on Secrets-App for Authentication Practice. Completed OAuth 2.0 with Google and Secrets App.
