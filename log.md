@@ -556,3 +556,12 @@
 **Thoughts:** This is one of the toughest things I've done till now in the course. Might need to go over it again in future!
 
 **Link to work:** [Secrets-App](https://github.com/harshit-saraswat/Secrets-App)
+
+### Day 70: September 11, 2020 
+
+**Today's Progress**: Started learning ReactJS. Currently working on Introduction-to-JSX Repository with CodeSandbox Environment to get started with JSX and React Basics. Completed first three challenges about - Hello World with JSX, Multiple elements rendering and JS Expressions and Literals in JSX.
+
+**Thoughts:** ReactJS has been on my todo list for so long and it does look pretty interesting. Can't wait to see what all it has in store for us.
+
+**Link to work:** [Introduction-to-JSX](https://github.com/harshit-saraswat/Introduction-to-JSX-Sandbox)
+
