@@ -210,3 +210,6 @@ Contnued working on Secrets-App for Authentication Practice. Server Setup for Go
 
 ### R1D69
 Contnued working on Secrets-App for Authentication Practice. Completed OAuth 2.0 with Google and Secrets App.
+
+### R1D70
+Started with ReactJS. Started Introduction to JSX Project using Code Sandbox. Completed 3 challenges.
