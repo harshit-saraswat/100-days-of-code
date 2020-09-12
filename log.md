@@ -565,3 +565,11 @@
 
 **Link to work:** [Introduction-to-JSX](https://github.com/harshit-saraswat/Introduction-to-JSX-Sandbox)
 
+### Day 71: September 12, 2020 
+
+**Today's Progress**: Continued working on Introduction-to-JSX. Completed challenges 4 and 5 about JSX Attributes and Styling using style sheets and custom JS objects for inline styles.
+
+**Thoughts:** This might be a good skill to learn, but after working with vanilla JS and pure html, css, bootstrap I don't really feel it's better than them. Though I may be wrong. Let's see what the future holds.
+
+**Link to work:** [Introduction-to-JSX](https://github.com/harshit-saraswat/Introduction-to-JSX-Sandbox)
+
