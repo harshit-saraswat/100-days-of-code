@@ -213,3 +213,6 @@ Contnued working on Secrets-App for Authentication Practice. Completed OAuth 2.0
 
 ### R1D70
 Started with ReactJS. Started Introduction to JSX Project using Code Sandbox. Completed 3 challenges.
+
+### R1D71
+Continued with Introduction-to-JSX. Completed Challenges 4 and 5 about JSX Attributes and Styling.
