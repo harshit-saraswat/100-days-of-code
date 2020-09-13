@@ -216,3 +216,6 @@ Started with ReactJS. Started Introduction to JSX Project using Code Sandbox. Co
 
 ### R1D71
 Continued with Introduction-to-JSX. Completed Challenges 4 and 5 about JSX Attributes and Styling.
+
+### R1D72
+Continued with Introduction-to-JSX. Completed JSX Challenge 6 - React Components and ES6 Challenge - Import-Export.
