@@ -573,3 +573,11 @@
 
 **Link to work:** [Introduction-to-JSX](https://github.com/harshit-saraswat/Introduction-to-JSX-Sandbox)
 
+### Day 72: September 13, 2020 
+
+**Today's Progress**: Continued working on Introduction-to-JSX. Completed challenge 6 about React Components and ES6 Challenge about Import and Export of Modules.
+
+**Thoughts:** Done with Introduction to JSX. Now onto a real project on my local machine. 
+
+**Link to work:** [Introduction-to-JSX](https://github.com/harshit-saraswat/Introduction-to-JSX-Sandbox)
+
