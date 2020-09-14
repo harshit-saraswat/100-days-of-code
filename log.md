@@ -581,3 +581,11 @@
 
 **Link to work:** [Introduction-to-JSX](https://github.com/harshit-saraswat/Introduction-to-JSX-Sandbox)
 
+### Day 73: September 14, 2020 
+
+**Today's Progress**: Worked on a personal python and flask based project. Also setup local environment for React Apps. Started working on Keeper-App which is supposed to be a clone of Google Keep using ReactJS.
+
+**Thoughts:** Started a full stack react project finally! Looking forward to it.
+
+**Link to work:** [Keeper-App](https://github.com/harshit-saraswat/Keeper-App)
+
