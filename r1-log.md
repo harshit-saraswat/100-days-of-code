@@ -219,3 +219,6 @@ Continued with Introduction-to-JSX. Completed Challenges 4 and 5 about JSX Attri
 
 ### R1D72
 Continued with Introduction-to-JSX. Completed JSX Challenge 6 - React Components and ES6 Challenge - Import-Export.
+
+### R1D73
+Worked on a personal project based on python and flask. Also setup local env for React Apps. Started working on Keeper-App.
