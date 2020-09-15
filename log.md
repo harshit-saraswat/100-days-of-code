@@ -589,3 +589,11 @@
 
 **Link to work:** [Keeper-App](https://github.com/harshit-saraswat/Keeper-App)
 
+### Day 74: September 15, 2020 
+
+**Today's Progress**: Worked on Keeper-App. Added Basic React Components for Header,Footer,Note and applied some basic styling for inital app setup. Also completed React Props Challenge (properties for custom components).
+
+**Thoughts:** Just when I thought how is React better? I got to meet react props. And I take back my words now! haha.
+
+**Link to work:** [Keeper-App](https://github.com/harshit-saraswat/Keeper-App), [Introduction-to-JSX](https://github.com/harshit-saraswat/Introduction-to-JSX-Sandbox)
+
