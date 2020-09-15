@@ -222,3 +222,6 @@ Continued with Introduction-to-JSX. Completed JSX Challenge 6 - React Components
 
 ### R1D73
 Worked on a personal project based on python and flask. Also setup local env for React Apps. Started working on Keeper-App.
+
+### R1D74
+Worked on Keeper-App. Added Basic React Components for Header,Footer,Note and applied some basic styling for inital app setup. Also worked on React Props (properties for custom components).
