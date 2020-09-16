@@ -597,3 +597,11 @@
 
 **Link to work:** [Keeper-App](https://github.com/harshit-saraswat/Keeper-App), [Introduction-to-JSX](https://github.com/harshit-saraswat/Introduction-to-JSX-Sandbox)
 
+### Day 75: September 16, 2020 
+
+**Today's Progress**: Worked on Introduction-to-JSX and Emojipedia-React-App projects. Learnt and implemented Nested Components and props, Component Mapping and other basic principles which helped in reducing the code by a lot.
+
+**Thoughts:** Yesterday, I thought this is it. It couldn't get any easier. But I was wrong. It is getting better and better every damn day! Even more code reduction. I'm loving it.
+
+**Link to work:** [Introduction-to-JSX](https://github.com/harshit-saraswat/Introduction-to-JSX-Sandbox), [Emojipedia-React-App](https://github.com/harshit-saraswat/Emojipedia-React-App)
+
