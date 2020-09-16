@@ -225,3 +225,6 @@ Worked on a personal project based on python and flask. Also setup local env for
 
 ### R1D74
 Worked on Keeper-App. Added Basic React Components for Header,Footer,Note and applied some basic styling for inital app setup. Also worked on React Props (properties for custom components).
+
+### R1D75
+Worked on React Components Practice along with Emojipedia-React-App. Implemented Nested Components and props, Component Mapping.
