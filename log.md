@@ -605,3 +605,11 @@
 
 **Link to work:** [Introduction-to-JSX](https://github.com/harshit-saraswat/Introduction-to-JSX-Sandbox), [Emojipedia-React-App](https://github.com/harshit-saraswat/Emojipedia-React-App)
 
+### Day 76: September 17, 2020 
+
+**Today's Progress**: Worked on JS-Practice and Emojipedia-React-App projects. Learnt and implemented ES6 concepts for Map, Reduce, FIlter, Find and FindIndex along with Arrow Functions and various styles to write anonymous/arrow functions.
+
+**Thoughts:** A good refresher on some basics for ES6. A must have skill to be able to reduce syntax while performing large redundant tasks.
+
+**Link to work:** [JavaScript-Practice](https://github.com/harshit-saraswat/javascript-practice), [Emojipedia-React-App](https://github.com/harshit-saraswat/Emojipedia-React-App)
+
