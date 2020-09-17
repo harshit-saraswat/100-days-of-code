@@ -228,3 +228,6 @@ Worked on Keeper-App. Added Basic React Components for Header,Footer,Note and ap
 
 ### R1D75
 Worked on React Components Practice along with Emojipedia-React-App. Implemented Nested Components and props, Component Mapping.
+
+### R1D76
+Worked on ES6 Practices. Learnt and implemented Map, Reduce, Filter, Find and FindIndex Functions and completed the challenges.
