@@ -231,3 +231,6 @@ Worked on React Components Practice along with Emojipedia-React-App. Implemented
 
 ### R1D76
 Worked on ES6 Practices. Learnt and implemented Map, Reduce, Filter, Find and FindIndex Functions and completed the challenges.
+
+### R1D77
+Continued working on Keeper-App. Completed Challenge 2 and implemented React Props, ES6 Mapping for component filling.
