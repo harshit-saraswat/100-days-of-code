@@ -613,3 +613,10 @@
 
 **Link to work:** [JavaScript-Practice](https://github.com/harshit-saraswat/javascript-practice), [Emojipedia-React-App](https://github.com/harshit-saraswat/Emojipedia-React-App)
 
+### Day 77: September 18, 2020 
+
+**Today's Progress**: Continued working on Keeper-App. Completed Challenge-2 and implemented React Props, ES6 Array Map functions to Populate Components. Also DataEthics4All #Ethics4NGAI Hackathon AI Summit and Bootcamps started today. So attended various Conferences, Webinars and bootcamps. Also attended an Idea Generation event by World Blockchain Hackathon for their upcoming Babylon Project.
+
+**Thoughts:** Basics to React and JSX have been mastered I believe. It was a great day today. Got to learn a lot from various people and speakers I met today. All the events were amazing. And tomorrow I give a bootcamp session too. Let's hope it goess good.
+
+**Link to work:** [Keeper-App](https://github.com/harshit-saraswat/Keeper-App)
