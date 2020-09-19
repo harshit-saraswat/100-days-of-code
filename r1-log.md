@@ -234,3 +234,6 @@ Worked on ES6 Practices. Learnt and implemented Map, Reduce, Filter, Find and Fi
 
 ### R1D77
 Continued working on Keeper-App. Completed Challenge 2 and implemented React Props, ES6 Mapping for component filling.
+
+### R1D78
+Worked on Flask-RestAPI-Bootcamp repo. Worked on bootcamp codes and made some minor changes. Also started mentoring the participants in the #Ethics4NGAI Hackathon.
