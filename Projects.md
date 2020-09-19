@@ -19,6 +19,7 @@
 2. [10-Days-of-Javascript](https://github.com/harshit-saraswat/10-Days-of-Javascript)
 3. [Introduction-to-JSX](https://github.com/harshit-saraswat/Introduction-to-JSX-Sandbox)
 4. [Emojipedia-React-App](https://github.com/harshit-saraswat/Emojipedia-React-App)
+5. [Flask-RestAPI-Bootcamp](https://github.com/harshit-saraswat/Flask-RestAPI-Bootcamp)
 
 # Old Projects Reworked or enhanced:
 1. [Face Mask Detection](https://github.com/harshit-saraswat/Face-Mask-Detection)
