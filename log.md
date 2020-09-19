@@ -620,3 +620,12 @@
 **Thoughts:** Basics to React and JSX have been mastered I believe. It was a great day today. Got to learn a lot from various people and speakers I met today. All the events were amazing. And tomorrow I give a bootcamp session too. Let's hope it goess good.
 
 **Link to work:** [Keeper-App](https://github.com/harshit-saraswat/Keeper-App)
+
+### Day 78: September 19, 2020 
+
+**Today's Progress**: Worked on Flask-RestAPI-Bootcamp repo today. Made minor changes on the codes for the bootcamp session I took today at the DataEthics4All #Ethics4NGAI Hackathon. Also, started mentoring the particpants at the hackathon today.
+
+**Thoughts:** And the day of my first bootcamp host experience came. It didn't go as good as I thought it would. But it was nice. Also I was able to meet and interact with a lot of people today and learnt a lot from them. Looking forward to this hack's results.
+
+**Link to work:** [Flask-RestAPI-Bootcamp](https://github.com/harshit-saraswat/Flask-RestAPI-Bootcamp)
+
