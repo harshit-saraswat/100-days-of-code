@@ -629,3 +629,11 @@
 
 **Link to work:** [Flask-RestAPI-Bootcamp](https://github.com/harshit-saraswat/Flask-RestAPI-Bootcamp)
 
+### Day 79: September 20, 2020 
+
+**Today's Progress**: Worked on Simple-Login-UI-React Code Sandbox. Implemented reusable React Components for Login and Register pages and implemented them on the same page by just changing Component props. Also implemented the complete UI switching y using Ternary and AND Operators. Also continued mentoring participants at the DataEthics4All #Ethics4NGAI hackathon!
+
+**Thoughts:** Finally was able to implement React components and reuse them to implement totally different things at one single page with minimal coding. Also, the hack's challenging than any other hack I've ever been in before. The policies, ethics and laws with teams of people from different domain makes it all the more challenging but equally fun!
+
+**Link to work:** [Simple-Login-UI-React](https://github.com/harshit-saraswat/Simple-Login-UI-React)
+
