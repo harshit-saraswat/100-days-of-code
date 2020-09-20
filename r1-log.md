@@ -237,3 +237,6 @@ Continued working on Keeper-App. Completed Challenge 2 and implemented React Pro
 
 ### R1D78
 Worked on Flask-RestAPI-Bootcamp repo. Worked on bootcamp codes and made some minor changes. Also started mentoring the participants in the #Ethics4NGAI Hackathon.
+
+### R1D79
+Worked on Simple-Login-UI-React code sandbox. Implemented a simple UI with reusable components for Login/Register and used ternary, AND operators.
