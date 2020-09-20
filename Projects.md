@@ -20,6 +20,7 @@
 3. [Introduction-to-JSX](https://github.com/harshit-saraswat/Introduction-to-JSX-Sandbox)
 4. [Emojipedia-React-App](https://github.com/harshit-saraswat/Emojipedia-React-App)
 5. [Flask-RestAPI-Bootcamp](https://github.com/harshit-saraswat/Flask-RestAPI-Bootcamp)
+6. [Simple-Login-UI-React](https://github.com/harshit-saraswat/Simple-Login-UI-React)
 
 # Old Projects Reworked or enhanced:
 1. [Face Mask Detection](https://github.com/harshit-saraswat/Face-Mask-Detection)
