@@ -637,3 +637,11 @@
 
 **Link to work:** [Simple-Login-UI-React](https://github.com/harshit-saraswat/Simple-Login-UI-React)
 
+### Day 80: September 22, 2020 
+
+**Today's Progress**: Worked on React-Hooks Code Sandbox. Implemented a simple Counter App and a simple Clock app using React useState Hook. Also mentored participants in the DataEthics4All #Ethics4NGAI Hackathon. And now the event's come to an end.
+
+**Thoughts:** So the event's finally come to an end. TBH, I feel sad yet again. It feels almost nostalgic and after such a pressure but fun week, life seems dull and Imma miss everyone. But let's hope for the best and keep on moving forward.
+
+**Link to work:** [React-Hooks](https://github.com/harshit-saraswat/React-Hooks)
+
