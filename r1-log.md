@@ -240,3 +240,6 @@ Worked on Flask-RestAPI-Bootcamp repo. Worked on bootcamp codes and made some mi
 
 ### R1D79
 Worked on Simple-Login-UI-React code sandbox. Implemented a simple UI with reusable components for Login/Register and used ternary, AND operators.
+
+### R1D80
+Worked on React-Hooks code sandbox. Implemented a simple counter and a simple clock app using React - useStateHooks.
