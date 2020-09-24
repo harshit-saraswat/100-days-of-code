@@ -645,3 +645,11 @@
 
 **Link to work:** [React-Hooks](https://github.com/harshit-saraswat/React-Hooks)
 
+### Day 81: September 24, 2020 
+
+**Today's Progress**: Continued polishing my JS skills by practicing more advanced ES6 concepts such as Destructuring and Nested Destructuring, also practiced some more React components and props skills. Also structured my code-sandboxes for various react and jsx repos.
+
+**Thoughts:** And last 12 lessons remaining then done with the course. That should take me like next 12-15 days probably and then I'll work on one complete website using MERN Stack. Atleast that's the plan. Let's see how it goes.
+
+**Link to work:** [JS-Practice](https://github.com/harshit-saraswat/javascript-practice)
+
