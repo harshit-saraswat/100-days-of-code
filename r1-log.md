@@ -243,3 +243,6 @@ Worked on Simple-Login-UI-React code sandbox. Implemented a simple UI with reusa
 
 ### R1D80
 Worked on React-Hooks code sandbox. Implemented a simple counter and a simple clock app using React - useStateHooks.
+
+### R1D81
+Continued practicing more advanced ES6 and Intermediate React Concepts. Managed various sandbox codes.
