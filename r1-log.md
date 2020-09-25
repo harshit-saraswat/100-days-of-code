@@ -246,3 +246,6 @@ Worked on React-Hooks code sandbox. Implemented a simple counter and a simple cl
 
 ### R1D81
 Continued practicing more advanced ES6 and Intermediate React Concepts. Managed various sandbox codes.
+
+### R1D82
+Continued practicing more advanced ES6 and Intermediate React Concepts. Learnt and Implemented React Events, React Forms.
