@@ -653,3 +653,10 @@
 
 **Link to work:** [JS-Practice](https://github.com/harshit-saraswat/javascript-practice)
 
+### Day 82: September 25, 2020 
+
+**Today's Progress**: Continued practicing React concepts. Learnt and implemented React Event Handling and React Forms and combined them with React Hooks, State Management.
+
+**Thoughts:** So React is going great. I feel the course offers so little about it that I might need to have another course which is solely on React and much more detailed.
+
+**Link to work:** [JS-Practice](https://github.com/harshit-saraswat/javascript-practice)
