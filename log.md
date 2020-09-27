@@ -660,3 +660,11 @@
 **Thoughts:** So React is going great. I feel the course offers so little about it that I might need to have another course which is solely on React and much more detailed.
 
 **Link to work:** [JS-Practice](https://github.com/harshit-saraswat/javascript-practice)
+
+### Day 83: September 27, 2020 
+
+**Today's Progress**: Continued practicing React concepts. Learnt and implemented Class and Functional React Components. Also worked with complex React States and Hooks with React Forms.
+
+**Thoughts:** As days keep moving ahead, I find it difficult to give enough time and keep going but I'll do this. Also I got a chance to work on an opensource MERN Stack project, so really looking forward to it.
+
+**Link to work:** [JS-Practice](https://github.com/harshit-saraswat/javascript-practice)
