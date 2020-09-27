@@ -249,3 +249,6 @@ Continued practicing more advanced ES6 and Intermediate React Concepts. Managed 
 
 ### R1D82
 Continued practicing more advanced ES6 and Intermediate React Concepts. Learnt and Implemented React Events, React Forms.
+
+### R1D83
+Continued practicing more React Concepts such as Class and Functional Components, Complex States and Hooks.
