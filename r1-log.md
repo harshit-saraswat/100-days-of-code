@@ -252,3 +252,6 @@ Continued practicing more advanced ES6 and Intermediate React Concepts. Learnt a
 
 ### R1D83
 Continued practicing more React Concepts such as Class and Functional Components, Complex States and Hooks.
+
+### R1D84
+Started working on some personal projects based on Android and AI domains.
