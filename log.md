@@ -668,3 +668,11 @@
 **Thoughts:** As days keep moving ahead, I find it difficult to give enough time and keep going but I'll do this. Also I got a chance to work on an opensource MERN Stack project, so really looking forward to it.
 
 **Link to work:** [JS-Practice](https://github.com/harshit-saraswat/javascript-practice)
+
+### Day 84: September 29, 2020 
+
+**Today's Progress**: Worked on some python MITOCW solutions and also started working on a personal project in the Android App and AI-ML domain.
+
+**Thoughts:** Hacktober Fest is near. Got myself assigned some issues. Let's see how it goes. Hoping to win it!
+
+**Link to work:** [MITOCW-Python-Solutions](https://github.com/harshit-saraswat/MITOCW-Python-Solutions)
