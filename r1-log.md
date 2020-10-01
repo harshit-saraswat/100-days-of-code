@@ -255,3 +255,6 @@ Continued practicing more React Concepts such as Class and Functional Components
 
 ### R1D84
 Started working on some personal projects based on Android and AI domains.
+
+### R1D85
+Started working on Opensource Contributions for Hacktober Fest 2020. Made my first PR for a python scripts repository.
