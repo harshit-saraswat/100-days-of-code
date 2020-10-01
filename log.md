@@ -676,3 +676,12 @@
 **Thoughts:** Hacktober Fest is near. Got myself assigned some issues. Let's see how it goes. Hoping to win it!
 
 **Link to work:** [MITOCW-Python-Solutions](https://github.com/harshit-saraswat/MITOCW-Python-Solutions)
+
+### Day 85: October 01, 2020 
+
+**Today's Progress**: Started working on open source contributions for Hacktober Fest 2020. Made my first PR for a python script feature at one of the repositories. Also, found other repos I can contribute to. Also, started with minimal UI using tkinter package in python to provide a simple GUI support for the script.
+
+**Thoughts:** And it's on. Here we go Hacktober fest! 1 down, 3 to go.
+
+**Link to work:** [code-n-stitch](https://github.com/harshit-saraswat/code-n-stitch)
+
