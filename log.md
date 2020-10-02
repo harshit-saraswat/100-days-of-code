@@ -685,3 +685,11 @@
 
 **Link to work:** [code-n-stitch](https://github.com/harshit-saraswat/code-n-stitch)
 
+### Day 86: October 02, 2020 
+
+**Today's Progress**: Continued working on open source contributions for Hacktober Fest 2020. Contributed to 2 more repositories in the field of computer vision and web-app.
+
+**Thoughts:** 3 down 1 more to go. Let's hope it happens soon!
+
+**Link to work:** [OpenCV-tutorial](https://github.com/harshit-saraswat/OpenCv-tutorial),[Recruit-a-thon](https://github.com/harshit-saraswat/Recruit-a-thon)
+
