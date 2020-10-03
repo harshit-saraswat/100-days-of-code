@@ -693,3 +693,10 @@
 
 **Link to work:** [OpenCV-tutorial](https://github.com/harshit-saraswat/OpenCv-tutorial),[Recruit-a-thon](https://github.com/harshit-saraswat/Recruit-a-thon)
 
+### Day 87: October 03, 2020 
+
+**Today's Progress**: Continued working on open source contributions for Hacktober Fest 2020. Contributed to all the required repositories and started working on more repos for a better learning and opensource experience..
+
+**Thoughts:** Now the deadly review period begins. It's on for like 14 days, let's see how it goes. Hoping I kick it!
+
+**Link to work:** [Awesome-Scripts](https://github.com/harshit-saraswat/awesomeScripts),[Python](https://github.com/harshit-saraswat/Python)
