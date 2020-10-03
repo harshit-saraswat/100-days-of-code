@@ -260,4 +260,7 @@ Started working on some personal projects based on Android and AI domains.
 Started working on Opensource Contributions for Hacktober Fest 2020. Made my first PR for a python scripts repository.
 
 ### R1D86
-Continued working on Hacktober Fest Contributions. COntributed to 2 more repositories and currently working on the 4th one.
+Continued working on Hacktober Fest Contributions. Contributed to 2 more repositories and currently working on the 4th one.
+
+### R1D87
+Continued working on Hacktober Fest Contributions. Done with all the required contributions, now contributing to more for better reach and learning.
