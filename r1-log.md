@@ -264,3 +264,6 @@ Continued working on Hacktober Fest Contributions. Contributed to 2 more reposit
 
 ### R1D87
 Continued working on Hacktober Fest Contributions. Done with all the required contributions, now contributing to more for better reach and learning.
+
+### R1D88
+Continued working with React and some personal projects. Implemented complex state management and added a few android app screens in the app.
