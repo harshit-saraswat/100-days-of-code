@@ -700,3 +700,12 @@
 **Thoughts:** Now the deadly review period begins. It's on for like 14 days, let's see how it goes. Hoping I kick it!
 
 **Link to work:** [Awesome-Scripts](https://github.com/harshit-saraswat/awesomeScripts),[Python](https://github.com/harshit-saraswat/Python)
+
+### Day 88: October 06, 2020 
+
+**Today's Progress**: COntinued working with React and a personal android project. Implemented complex state managements and added a few starter screens to the app.
+
+**Thoughts:** It's getting tougher to keep working on, but let's see.
+
+**Link to work:** [openBank-app](https://github.com/harshit-saraswat/openBank-app),[javascript-practice](https://github.com/harshit-saraswat/javascript-practice)
+
