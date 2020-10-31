@@ -709,3 +709,11 @@
 
 **Link to work:** [openBank-app](https://github.com/harshit-saraswat/openBank-app),[javascript-practice](https://github.com/harshit-saraswat/javascript-practice)
 
+### Day 89: October 31, 2020 
+
+**Today's Progress**: Continued working with React and JS Practice. Implemented JS Loops, Conditions, Functions and complex react props.
+
+**Thoughts:** Was out of state for the last few weeks, so couldn't continue the challenge, but thankfully I'm back now and will complete it daily.
+
+**Link to work:** [javascript-practice](https://github.com/harshit-saraswat/javascript-practice)
+
