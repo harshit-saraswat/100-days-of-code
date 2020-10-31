@@ -267,3 +267,6 @@ Continued working on Hacktober Fest Contributions. Done with all the required co
 
 ### R1D88
 Continued working with React and some personal projects. Implemented complex state management and added a few android app screens in the app.
+
+### R1D89
+Continued working with React and JS Practice. Implemented JS Conditions, Loops and Functions and react props.
