@@ -717,3 +717,11 @@
 
 **Link to work:** [javascript-practice](https://github.com/harshit-saraswat/javascript-practice)
 
+### Day 90: November 03, 2020 
+
+**Today's Progress**: Continued working with React and JS Practice. Implemented JS Date time module.
+
+**Thoughts:** Office, travel and other chores. I really am lacking at time management.
+
+**Link to work:** [javascript-practice](https://github.com/harshit-saraswat/javascript-practice)
+
