@@ -270,3 +270,6 @@ Continued working with React and some personal projects. Implemented complex sta
 
 ### R1D89
 Continued working with React and JS Practice. Implemented JS Conditions, Loops and Functions and react props.
+
+### R1D90
+Continued working with JS. Implemented JS Datetime Module.
